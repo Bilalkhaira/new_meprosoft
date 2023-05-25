@@ -1,67 +1,81 @@
 @extends('layouts.master')
 
 @section('content')
-@if(!empty($data))
 
-<section class="wrapper image-wrapper bg-image bg-overlay text-white" data-image-src="{{ asset('img/homeMenu/'.$data->topSection_img ?? '' )}}">
-  <div class="container pt-19 pt-md-21 pb-18 pb-md-20 text-center">
-    <div class="row">
-      <div class="col-md-10 col-lg-8 col-xl-7 col-xxl-6 mx-auto">
-        <h1 class="display-1 text-white mb-3">{{ $data->topSection_heading ?? ''}}</h1>
-        <span class="lead fs-lg px-md-3 px-lg-7 px-xl-9 px-xxl-10">{{ $data->topSection_explanation ?? ''}}</span>
-      </div>
-    </div>
-  </div>
+<section class="hdr_bg">
+  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/why.png' )}}"></div>
 </section>
 
-<section class="wrapper bg-light">
-  <div class="container pt-14 pb-12 pt-md-16 pb-md-14">
-    <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
-
-
-      <div class="col-lg-12">
-        <h3 class="display-4 mb-5">{{ $data->explanationSection_heading ?? ''}}</h3>
-        <p>{!! $data->explanationSection_explanation ?? '' !!}</p>
-      </div>
-
-      @if(!empty($data->explanationSection_img))
-     
-      <div class="col-lg-12">
-        <img src="{{ asset('img/homeMenu/'.$data->explanationSection_img ?? '' )}}" alt="">
-      </div>
-
-      @endif
-
-
-      @if(!empty($data->cards[0]))
-      @foreach($data->cards as $val)
-      <div class="col-lg-12">
-        <h4>{{ $val->heading ?? ''}}</h4>
-        <ul>
-          @foreach(json_decode($val->explanation) as $li)
-          <li>{{ $li }}</li>
-          @endforeach
-        </ul>
-      </div>
-      @endforeach
-      @endif
-
+<div class="container-fluid home_menu_hdng">
+  <div class="row">
+    <div class="col-md-12 text-center">
+      <h1>Why Mesprosoft</h1>
     </div>
   </div>
-</section>
+</div>
 
-@else
-<section class="wrapper bg-light">
-  <div class="container pt-14 pb-12 pt-md-16 pb-md-14">
-    <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
-
-      <div class="col-lg-12">
-        <h3 class="display-4 mb-5">No Data Found Of This Page</h3>
-      </div>
-
+<div class="container">
+  <div class="row">
+    <div class="col-md-12 text-center">
+      <p>We differentiate ourselves by ensuring that we follow a strict<br> regimen of not deviating from our core value <br>of value addition to the customer.</p>
     </div>
   </div>
-</section>
-@endif
+  <div class="row home_menu_border">
+    <div class="col-md-12 text-center">
+      <h1>Core Values</h1>
+      <p>We differentiate ourselves by ensuring that we follow a strict regimen of not deviating from our core value of value addition to the customer. Had always been honest in our approach and delivered according to the expectations.</p>
+      <img src="{{ asset('img/new_design_img/why1.png') }}" width="80%" alt="">
+    </div>
+    
+
+    <div class="col-md-12 why_mesproft_ul"> 
+      <p>Using Mesprosoft’s MRP optimization Tools</p>
+      <ul>
+        <li>Reduced Inventory cost by 2- 4 % for our clients</li>
+        <li>Reduced further Dead stock Accumulation to 0%</li>
+        <li>Optimized planned procurements with real-time alignment with vendors latest schedule of deliveries</li>
+      </ul>
+    </div>
+
+    <div class="col-md-12 why_mesproft_ul"> 
+      <p>Using Mespro Paperless Manufacturing</p>
+      <ul>
+        <li>Increased the Assembly efficiency by 10%</li>
+        <li>Utilization of Machines by 7% and better Sequencing</li>
+      </ul>
+    </div>
+
+    <div class="col-md-12 why_mesproft_ul"> 
+      <p>Using RFID Based Material Staging</p>
+      <ul>
+        <li>Augmenting Just in Sequence Staging-reducing WIP holdings drastically.</li>
+        <li>Reduced the inward holding of materials to Zero.</li>
+      </ul>
+    </div>
+
+    <div class="col-md-12 why_mesproft_ul"> 
+      <p>Using Mesprosoft’s Mobile Interfacing</p>
+      <ul>
+        <li>End to End connectivity right from shop floor to Service field staff connected real-time</li>
+      </ul>
+    </div>
+
+    <div class="col-md-12 why_mesproft_ul"> 
+      <p>Using Mespro GPS Analytics</p>
+      <ul>
+        <li>Mgmt. Review Meeting preparations time reduced to 0 day.</li>
+        <li>Review Performance on Strategic KPI.</li>
+      </ul>
+    </div>
+
+    <div class="col-md-12 why_mesproft_ul"> 
+      <p>Using Mesprosoft’s EBMR</p>
+      <ul>
+        <li>Painless FDA Audits – without any special preparations</li>
+        <li>No advance Batch Management Record preparations</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 @endsection

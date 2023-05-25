@@ -2,7 +2,7 @@
 
 @section('content')
 <section class="hdr_bg">
-  <div class="container wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/paperLess.jpg' )}}"></div>
+  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/DigitalTransformationWithCloud.jpg' )}}"></div>
   <div class="img_dv">
     <div class="row">
       <div class="col-md-3"></div>
@@ -34,36 +34,35 @@
     </div>
   </div>
   <div class="row paperLess_form_sec">
-    <div class="col-md-8">
+    <div class="col-md-12 text-center mb-6">
+      <h1><b>Unlocking Insight Features:</b></h1>
+    </div>
+    <div class="col-md-8 point_col">
       <div class="row">
-        <div class="col-md-3">
-          <img src="{{ asset('img/new_design_img/service_link1.png') }}" width="100%" alt="">
+        <div class="col-md-3 text-right">
+          <img src="{{ asset('img/new_design_img/service_link1.png') }}" width="40%" alt="">
         </div>
         <div class="col-md-9">
-          <h3 class="display-7 mb-5">IPO Compliance</h3>
-          <p>India is in growth path and so are all of our customers. Often companies face stiff challenges when transitioning from a Pvt Ltd company to LTD company and the compliance requirements for preparation for IPO could be very much challenging.</p>
-          <a href="{{ route('services.IPOCompliance') }}" class="btn btn-primary btn-sm">Read More</a>
+          <h3 class="display-7 mb-5">Transform Your Business, Delight Your Customers</h3>
+        
         </div>
       </div>
       <div class="row news_row_margin">
-        <div class="col-md-3">
-          <img src="{{ asset('img/new_design_img/service_link1.png') }}" width="100%" alt="">
+        <div class="col-md-3 text-right">
+          <img src="{{ asset('img/new_design_img/service_link1.png') }}" width="40%" alt="">
         </div>
         <div class="col-md-9">
-          <h3 class="display-7 mb-5">Digital transformation with S4 Hana cloud</h3>
-          <p>Mesprosoft understand that digital transformation is the key to improving business operations and enhancing customer experiences. 
-        That's why we recommend SAP S/4HANA Cloud as a powerful tool to enable this transformation.</p>
-          <a href="{{ route('services.digitalTransformationWithCloud') }}"" class="btn btn-primary btn-sm">Read More</a>
+          <h3 class="display-7 mb-5">Maximize Business Performance</h3>
+          
         </div>
       </div>
       <div class="row news_row_margin">
-        <div class="col-md-3">
-          <img src="{{ asset('img/new_design_img/service_link1.png') }}" width="100%" alt="">
+        <div class="col-md-3 text-right">
+          <img src="{{ asset('img/new_design_img/service_link1.png') }}" width="40%" alt="">
         </div>
         <div class="col-md-9">
-          <h3 class="display-7 mb-5">S/4 HANA Conversion</h3>
-          <p>Mesprosoft has extensive expertise in S/4HANA conversion, helping businesses to migrate from their existing SAP systems to the powerful and innovative S/4HANA platform.</p>
-          <a href="{{ route('services.hanaConversion') }}" class="btn btn-primary btn-sm">Read More</a>
+          <h3 class="display-7 mb-5">Mesprosoft Recommends SAP S/4HANA Cloud</h3>
+          
         </div>
       </div>
 

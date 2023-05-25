@@ -2,7 +2,7 @@
 
 @section('content')
 <section class="hdr_bg">
-  <div class="container wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/paperLess.jpg' )}}"></div>
+  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/LoanManagementSolution.jpg' )}}"></div>
   <div class="img_dv">
     <div class="row">
       <div class="col-md-3"></div>
@@ -31,35 +31,32 @@
     </div>
   </div>
   <div class="row paperLess_form_sec">
-    <div class="col-md-8">
+  <div class="col-md-12 text-center mb-6">
+      <h1><b>Unlocking Insight Features:</b></h1>
+    </div>
+    <div class="col-md-8 point_col">
       <div class="row">
-        <div class="col-md-3">
-          <img src="{{ asset('img/new_design_img/service_link1.png') }}" width="100%" alt="">
+        <div class="col-md-3 text-right">
+          <img src="{{ asset('img/new_design_img/service_link1.png') }}" width="40%" alt="">
         </div>
         <div class="col-md-9">
-          <h3 class="display-7 mb-5">Dispatch Automation</h3>
-          <p>Businesses with disorganized dispatch systems will eventually struggle for their life. Already such companies that are manually planning their routes, monitoring their vehicles and handing over the assignment to their driver are risking their business growth profile.</p>
-          <a href="{{ route('productAndSolution.dispatchAutomation') }}" class="btn btn-primary btn-sm">Read More</a>
+          <h3 class="display-7 mb-5">Navigating Loan Management with Ease: End-to-End Solutions by Mesprosoft</h3>
         </div>
       </div>
       <div class="row news_row_margin">
-        <div class="col-md-3">
-          <img src="{{ asset('img/new_design_img/service_link1.png') }}" width="100%" alt="">
+        <div class="col-md-3 text-right">
+          <img src="{{ asset('img/new_design_img/service_link1.png') }}" width="40%" alt="">
         </div>
         <div class="col-md-9">
-          <h3 class="display-7 mb-5">Dynamic Machine Scheduling</h3>
-          <p>Automation is the next new face of manufacturing sectors. The world realizes the need for a higher level of production and timely availability of products.</p>
-          <a href="{{ route('productAndSolution.dynamicMachineScheduling') }}" class="btn btn-primary btn-sm">Read More</a>
+          <h3 class="display-7 mb-5">Industry-Standard Compliance with Mesprosoft</h3>
         </div>
       </div>
       <div class="row news_row_margin">
-        <div class="col-md-3">
-          <img src="{{ asset('img/new_design_img/service_link1.png') }}" width="100%" alt="">
+        <div class="col-md-3 text-right">
+          <img src="{{ asset('img/new_design_img/service_link1.png') }}" width="40%" alt="">
         </div>
         <div class="col-md-9">
-          <h3 class="display-7 mb-5">Electronic Batch Manufacturing</h3>
-          <p>Pharmaceuticals & chemicals companies have long been relying on batch manufacturing processes. A batch record verifies that a company correctly controls and records all crucial steps involved in creating a batch of a product.</p>
-          <a href="{{ route('productAndSolution.electronicBatchManufacturing') }}" class="btn btn-primary btn-sm">Read More</a>
+          <h3 class="display-7 mb-5">Simplify Loan Management, Ensure Compliance: Comprehensive Solutions by Mesprosoft</h3>
         </div>
       </div>
 

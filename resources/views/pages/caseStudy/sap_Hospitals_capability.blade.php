@@ -3,7 +3,7 @@
 @section('content')
 
 <section class="hdr_bg">
-  <div class="container wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/case_study1.jpg' )}}"></div>
+  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/SAPHospitalsCapability.jpg' )}}"></div>
   <div class="img_dv">
     <div class="row">
       <div class="col-md-3"></div>

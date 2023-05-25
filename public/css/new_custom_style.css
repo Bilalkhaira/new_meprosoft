@@ -1,5 +1,5 @@
 #service_head_img {
-    height: 100vh;
+    height: 85vh;
     background: round;
     width: 100%;
     /* margin-left: 12rem; */
@@ -175,7 +175,7 @@
 }
 
 .paperLess_form_sec img {
-    margin-top: 25px;
+    /* margin-top: 25px; */
 }
 
 .paperLess_form_outer {
@@ -320,6 +320,91 @@
 .carousel-caption p{
     color: black;
 }
+.home_menu_hdng{
+    background-color: #fbb217;
+    margin-top: 30px;
+    padding-bottom: 7px;
+    margin-bottom: 30px;
+}
+.home_menu_hdng h1{
+    color: black;
+    font-weight: bold;
+}
+.home_menu_border{
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    padding: 35px 60px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.home_menu_border img{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.home_menu_border h1{
+    font-weight: bold;
+}
+.home_menu_border ul li::before {
+    content: "\2022";
+    color: #fbb217;
+    font-weight: bold;
+    display: inline-block; 
+    width: 1em;
+    margin-left: -1em;
+  }
+  .home_menu_border ul {
+    list-style: none;
+  }
+  .why_mesproft_ul p{
+    font-weight: bold;
+  }
+  .why_mesproft_ul{
+    margin-bottom: 30px;
+  }
+  #career_hdng{
+    bottom: 5%;
+  }
+  .career h1{
+    font-weight: bold;
+  }
+  .career{
+    padding-top: 100px;
+  }
+  .career_circle{
+    background-color: #fbb217;
+    padding: 15px 24px;
+    border-radius: 100px;
+  }
+  .career h3{
+    font-weight: bold;
+  }
+  .open_job .col-md-2{
+    padding-top: 25px;
+  }
+
+  .open_job ul li::before {
+    content: "\2022";
+    color: #fbb217;
+    font-weight: bold;
+    display: inline-block; 
+    width: 1em;
+    margin-left: -1em;
+  }
+  .open_job ul {
+    list-style: none;
+  }
+  .job_email{
+    color: #fbb217;
+  }
+  .open_job {
+    margin-bottom: 30px;
+  }
+  .open_job_row{
+    margin-top: 50px;
+  }
+  .point_col{
+    padding-top: 100px;
+  }
 
 
 

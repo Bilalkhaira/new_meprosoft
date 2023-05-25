@@ -20,7 +20,7 @@
                                 <div class="row">
                                     <div class="col-md-12 text-center">
                                         <h3 class="display-7 mb-5">HOME</h3>
-                                        <p>Mesprosoft has designed tailored solutions for industries across verticals requirements operations and business performance are strengthened enough.</p>
+                                        <p>With the custom created software, Mesprosoft, a pioneer in the field of business process automation, seeks to enhance all business operations.</p>
                                     </div>
                                 </div>
                                 <div class="row">
@@ -51,7 +51,7 @@
                                 <div class="row">
                                     <div class="col-md-12 text-center">
                                         <h3 class="display-7 mb-5">SERVICES</h3>
-                                        <p>Mesprosoft has designed tailored solutions for industries across verticals requirements operations and business performance are strengthened enough.</p>
+                                        <p>Trust our dedicated support team to provide ongoing maintenance and assistance, ensuring your systems run smoothly and efficiently.</p>
                                     </div>
                                 </div>
                                 <div class="row">
@@ -87,7 +87,7 @@
                                     </div>
                                     <div class="col-md-4">
                                         <img src="{{ asset('img/new_design_img/header.png') }}" width="15px" alt="">
-                                        <a href="{{ route('services.resourceArgumentation') }}">Resource Argumentation</a>
+                                        <a href="{{ route('services.resourceArgumentation') }}">Resource Augmentation</a>
                                     </div>
                                 </div>
                             </div>
@@ -101,7 +101,7 @@
                                 <div class="row">
                                     <div class="col-md-12 text-center">
                                         <h3 class="display-7 mb-5">PRODUCTS & SOLUTIONS</h3>
-                                        <p>Mesprosoft has designed tailored solutions for industries across verticals requirements operations and business performance are strengthened enough.</p>
+                                        <p>Gain control and optimize your supply chain with our comprehensive solutions.</p>
                                     </div>
                                 </div>
                                 <div class="row">
@@ -187,7 +187,7 @@
                                 <div class="row">
                                     <div class="col-md-12 text-center">
                                         <h3 class="display-7 mb-5">CASE STUDIES</h3>
-                                        <p>Mesprosoft has designed tailored solutions for industries across verticals requirements operations and business performance are strengthened enough.</p>
+                                        <p>Discover how Mesprosoft partnered with a leading manufacturing company to optimize their production processes.</p>
                                     </div>
                                 </div>
                                 <div class="row">
@@ -258,7 +258,7 @@
                                 <div class="row">
                                     <div class="col-md-12 text-center">
                                         <h3 class="display-7 mb-5">Event & News</h3>
-                                        <p>Mesprosoft is now ranked among the 20 most promising SAP implementation partners in India.</p>
+                                        <p>Explore Mesprosoft's thought leadership articles, whitepapers, and industry insights.</p>
                                     </div>
                                 </div>
                                 <div class="row">
@@ -269,7 +269,7 @@
                                     </div>
                                     <div class="col-md-2 text-center">
                                         <img src="{{ asset('img/new_design_img/header.png') }}" width="15px" alt="">
-                                        <a href="{{ route('eventAndNews.news') }}">News</a>
+                                        <a href="{{ route('eventAndNews.index') }}">News</a>
                                     </div>
                                     <div class="col-md-4"></div>
                                 </div>

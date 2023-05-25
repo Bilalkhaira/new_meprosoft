@@ -3,7 +3,7 @@
 @section('content')
 
 <section class="hdr_bg">
-  <div class="container wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/service.jpg' )}}"></div>
+  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/service.jpg' )}}"></div>
     <div class="img_dv">
         <div class="row">
             <div class="col-md-3"></div>
@@ -75,7 +75,7 @@
             <div class="col-md-12 text-center service_link_below_sec">
                 <p>Mesprosoft has superior features to build solutions that you can now integrate and streamline your business processes with our SAP solutions, and ensure that your operations and business performance are strengthened enough to give you the thrust for sustained growth and become profitable, Mesprosoft offers SAP implementation services & solutions to your strategic and current needs.</p>
                 <p>Mesprosoft has designed tailored solutions for industries across verticals. Mesprosoft has leveraged SAP technology and its superior across verticals. Mesprosoft has leveraged SAP technology and its superior features to build solutions that align perfectly with vertical business requirements. So however distinctive your processes may be, you can now integrate and streamline your business processes with our SAP solutions, and ensure that your operations and business performance are strengthened enough.</p>
-                <a href="#" class="btn btn-primary btn-sm">Read More</a>
+                <!-- <a href="#" class="btn btn-primary btn-sm">Read More</a> -->
             </div>
         </div>
     </div>
