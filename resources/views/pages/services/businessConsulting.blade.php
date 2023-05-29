@@ -1,66 +1,105 @@
 @extends('layouts.master')
 
 @section('content')
-@if(!empty($data))
-
-<section class="wrapper image-wrapper bg-image bg-overlay text-white" data-image-src="{{ asset('img/services/'.$data->topSection_img ?? '' )}}">
-  <div class="container pt-19 pt-md-21 pb-18 pb-md-20 text-center">
+<section class="hdr_bg">
+  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/BusinessConsulting.jpg' )}}"></div>
+  <div class="img_dv">
     <div class="row">
-      <div class="col-md-10 col-lg-8 col-xl-7 col-xxl-6 mx-auto">
-        <h1 class="display-1 text-white mb-3">{{ $data->topSection_heading ?? ''}}</h1>
-        <span class="lead fs-lg px-md-3 px-lg-7 px-xl-9 px-xxl-10">{{ $data->topSection_explanation ?? ''}}</span>
+      <div class="col-md-3"></div>
+      <div class="col-md-9">
+        <h1>Business Consulting</h1>
+        <p>Mesprosoft provides thorough business consulting services to assist organisations in overcoming obstacles, streamlining procedures, and achieving their strategic goals.</p>
       </div>
     </div>
   </div>
 </section>
 
-<section class="wrapper bg-light">
-  <div class="container pt-14 pb-12 pt-md-16 pb-md-14">
-    <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
-
-
-      <div class="col-lg-12">
-        <h3 class="display-4 mb-5">{{ $data->explanationSection_heading ?? ''}}</h3>
-        <p>{!! $data->explanationSection_explanation ?? '' !!}</p>
+<div class="container">
+  <div class="row paperLess_row">
+    <div class="col-md-6">
+      <img src="{{ asset('img/new_design_img/paperLess1.png') }}" width="100%" alt="">
+    </div>
+    <div class="col-md-6">
+      <p>Mesprosoft provides thorough business consulting services to assist organisations in overcoming obstacles, streamlining procedures, and achieving their strategic goals. Our team of skilled consultants combines domain knowledge, in-depth business understanding, and technical know-how to offer insightful recommendations and solutions that promote sustainable success.</p>
+    <ul>
+      <li><b>Strategic Planning:</b> We work closely with them to create strategic plans that support our client's long-term objectives. Our consultants conduct an in-depth analysis of the company environment, industry trends, and competitive landscape to find opportunities and establish strategic priorities. </li>
+      <li><b>Process Optimisation:</b> Efficient and streamlined processes are critical for organisational success. Our consultants assess existing processes, identify bottlenecks, and design optimised workflows. We help our clients implement industry best practices and cutting-edge technologies to enhance productivity, reduce costs, and improve overall operational efficiency.</li>
+      <li><b>Change Management: </b>Change is inevitable in today's dynamic business landscape. Mesprosoft consultants provide guidance and support during organisational transformations, such as implementing new technologies, restructuring operations, or adapting to market shifts.</li>
+      <li><b>Risk Management: </b>Mitigating risks and ensuring compliance is paramount in today's complex business environment. Our consultants assist organisations in identifying potential risks, assessing their impact, and implementing risk management frameworks. Our approach includes conducting risk assessments, implementing risk mitigation strategies, and providing training and awareness programs to promote a risk-aware culture.</li>
+    </ul>
+  <p>At Mesprosoft, our business consulting services are tailored to each client's unique needs and challenges. We take a collaborative approach, working closely with stakeholders to understand their vision, analyse their current situation, and develop practical and customised solutions. Our goal is to empower organisations with the knowledge, strategies, and tools they need to thrive in an ever-evolving business landscape.</p>  
+<p>Contact us today to learn more about how Mesprosoft's business consulting services can help your organisation achieve its full potential and drive sustainable growth.</p>  
+</div>
+  </div>
+  <div class="row paperLess_form_sec">
+    <div class="col-md-12 text-center mb-6">
+      <h1><b>Unlocking Insight Features:</b></h1>
+    </div>
+    <div class="col-md-8 point_col">
+      <div class="row">
+        <div class="col-md-3 text-right">
+          <img src="{{ asset('img/new_design_img/service_link1.png') }}" width="40%" alt="">
+        </div>
+        <div class="col-md-9">
+          <h3 class="display-7 mb-5">Transform Your Business, Delight Your Customers</h3>
+        
+        </div>
       </div>
-
-      @if(!empty($data->explanationSection_img))
-      <div class="col-lg-12">
-        <img src="{{ asset('img/services/'.$data->explanationSection_img ?? '' )}}" alt="">
+      <div class="row news_row_margin">
+        <div class="col-md-3 text-right">
+          <img src="{{ asset('img/new_design_img/service_link1.png') }}" width="40%" alt="">
+        </div>
+        <div class="col-md-9">
+          <h3 class="display-7 mb-5">Maximize Business Performance</h3>
+          
+        </div>
       </div>
-
-      @endif
-
-
-      @if(!empty($data->cards[0]))
-      @foreach($data->cards as $val)
-      <div class="col-lg-12">
-        <h4>{{ $val->heading ?? ''}}</h4>
-        <ul>
-          @foreach(json_decode($val->explanation) as $li)
-          <li>{{ $li }}</li>
-          @endforeach
-        </ul>
+      <div class="row news_row_margin">
+        <div class="col-md-3 text-right">
+          <img src="{{ asset('img/new_design_img/service_link1.png') }}" width="40%" alt="">
+        </div>
+        <div class="col-md-9">
+          <h3 class="display-7 mb-5">Mesprosoft Recommends SAP S/4HANA Cloud</h3>
+          
+        </div>
       </div>
-      @endforeach
-      @endif
 
     </div>
-  </div>
-</section>
+    <div class="col-md-4">
+      <div class="paperLess_form_outer">
+        <form action="/action_page.php">
+        <h3 class="display-7 mb-5">Request A Demo!</h3>
+          <div class="form-group">
+            <input type="text" class="form-control" placeholder="Name">
+          </div>
+          <div class="form-group">
+            <input type="number" class="form-control" placeholder="Phone">
+          </div>
+          <div class="form-group">
+            <input type="email" class="form-control" placeholder="Email">
+          </div>
 
-@else
-<section class="wrapper bg-light">
-  <div class="container pt-14 pb-12 pt-md-16 pb-md-14">
-    <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
+          <div class="form-group">
+            <input type="text" class="form-control" placeholder="Category Name">
+          </div>
 
-      <div class="col-lg-12">
-        <h3 class="display-4 mb-5">No Data Found Of This Page</h3>
+          <div class="form-group">
+            <textarea name="" class="form-control" id="" cols="30" rows="5" placeholder="Message"></textarea>
+          </div>
+
+          <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
       </div>
-
     </div>
   </div>
-</section>
-@endif
+</div>
+
+
+
+
+
+
+
+
 
 @endsection

@@ -109,6 +109,7 @@ Route::get('/UTILITIES_industries', [CaseStudyControler::class, 'UTILITIESIndust
 // event and news route
 Route::get('/event_and_news', [NewsAndEventController::class, 'index'])->name('eventAndNews.index');
 Route::get('/events', [NewsAndEventController::class, 'event'])->name('eventAndNews.event');
+Route::get('/event_detail', [NewsAndEventController::class, 'eventDetail'])->name('eventAndNews.eventDetail');
 Route::get('/news', [NewsAndEventController::class, 'news'])->name('eventAndNews.news');
 // careers route
 Route::get('/career', [CareerController::class, 'index'])->name('careers.index');

@@ -25,4 +25,9 @@ class NewsAndEventController extends Controller
     {
         return view('pages.eventAndNews.news');
     }
+
+    public function eventDetail()
+    {
+        return view('pages.eventAndNews.event_detail');
+    }
 }

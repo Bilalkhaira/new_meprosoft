@@ -9,7 +9,7 @@
             <div class="col-md-3"></div>
             <div class="col-md-9">
                 <h1>Our Product & Solution</h1>
-                <p>Mesprosoft has designed tailored solutions. So however distinctive your processes may be, you can now integrate and streamline your business processes with our SAP solutions,</p>
+                <p>To satisfy our customers' unique demands, Mesprosoft provides a wide range of cutting-edge software solutions.</p>
             </div>
         </div>
 
@@ -20,8 +20,8 @@
     <div class="row">
         <div class="col-md-6 hdg_dv">
             <h3 class="display-4 mb-5">Our Products & Solutions</h3>
-            <p>Mesprosoft has designed tailored solutions. So however distinctive your processes may be, you can now integrate and streamline your business processes with our SAP solutions, and ensure that your operations and business performance are strengthened enough.</p>
-            <a href="#" class="btn btn-primary btn-sm">Read More</a>
+            <p>To satisfy our customers' unique demands, Mesprosoft provides a wide range of cutting-edge software solutions. Our purpose is to empower organisations with cutting-edge technology that enables them to accomplish their goals successfully and efficiently.</p>
+            <!-- <a href="#" class="btn btn-primary btn-sm">Read More</a> -->
         </div>
         <div class="col-md-6">
             <video width="100%" height="400px" poster="{{ asset('img/new_design_img/img_thum.png')}}" controls="">
@@ -42,8 +42,8 @@
             <div>
                 <img src="{{ asset('img/new_design_img/optimize1.png') }}" width="100px" height="100px" alt="">
                 <h3 class="display-7 mb-5">Our Optimum Evolvement </h3>
-                <p>Mesprosoft has designed tailored solutions. So however distinctive your processes may be, you can now integrate and streamline your business processes with our SAP solutions,</p>
-                <a href="#" class="btn btn-primary btn-sm">Read More</a>
+                <p>We recognise that diverse sectors have unique requirements and challenges. We offer industry-specific software solutions tailored to verticals such as manufacturing, healthcare, retail, logistics, and more to address this. These solutions incorporate industry best practices, compliance standards, and advanced functionalities that cater to the specific needs of each sector.</p>
+                <!-- <a href="#" class="btn btn-primary btn-sm">Read More</a> -->
             </div>
         </div>
 

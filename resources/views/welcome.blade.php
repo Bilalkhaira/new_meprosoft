@@ -16,7 +16,7 @@
 
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="{{ asset('img/newHome/slider2.png') }}" alt="Los Angeles" class="d-block" style="width:100%">
+            <img src="{{ asset('img/new_design_img/Slider-1.jpg') }}" alt="Los Angeles" style="height: 85vh; width:100%" class="d-block" style="width:100%">
             <div class="carousel-caption">
                 <h1>Unleash Your Business Potential with S/4HANA RISE for Cloud</h1>
                 <p>Mesprosoft S/4HANA Cloud services empowers customers with a cutting-edge, adaptable, and intelligent ERP solution that boosts efficiency, fosters innovation, and propels business expansion within a cloud-centric ecosystem. </p>
@@ -24,7 +24,7 @@
             </div>
         </div>
         <div class="carousel-item">
-            <img src="{{ asset('img/newHome/slider2.png') }}" alt="Chicago" class="d-block" style="width:100%">
+            <img src="{{ asset('img/new_design_img/Slider-2.jpg') }}" alt="Chicago" style="height: 85vh; width:100%" class="d-block" style="width:100%">
             <div class="carousel-caption">
                 <h1>Bringing Results, Developing Relationships</h1>
                 <p>We bank on our lean organization structure and efficient team to offer the best value addition, besides our longstanding customer relations are a solid proof of our strength to deliver results and retain customers. </p>
@@ -32,7 +32,7 @@
             </div>
         </div>
         <div class="carousel-item">
-            <img src="{{ asset('img/newHome/slider2.png') }}" alt="New York" class="d-block" style="width:100%">
+            <img src="{{ asset('img/new_design_img/Slider-3.jpg') }}" alt="New York" style="height: 85vh; width:100%" class="d-block" style="width:100%">
             <div class="carousel-caption">
                 <h1>Mesprosoft: Leading the Way in SAP Services</h1>
                 <p>Mespro Grandize, S/4HANA Cloud 4 SME, a highly customized solution offered by Mesprosoft, a dominant player in the SAP and Supplementary application services with exceptional credentials to its name in the manufacturing segment.</p>
@@ -40,7 +40,7 @@
             </div>
         </div>
         <div class="carousel-item">
-            <img src="{{ asset('img/newHome/slider2.png') }}" alt="New York" class="d-block" style="width:100%">
+            <img src="{{ asset('img/new_design_img/Slider-4.jpg') }}" alt="New York" style="height: 85vh; width:100%" class="d-block" style="width:100%">
             <div class="carousel-caption">
                 <h1>Unlock Efficiency, Eliminate Bottlenecks</h1>
                 <p>With the traditional MRP, the planners were not able to execute the MRP at regular intervals and hence, creating a bottleneck. Mespro Optimized MRP helps our customers to reduce Inventory cost by 2- 4 % and to reduce dead stock accumulation to 0%</p>
@@ -48,7 +48,7 @@
             </div>
         </div>
         <div class="carousel-item">
-            <img src="{{ asset('img/newHome/slider2.png') }}" alt="New York" class="d-block" style="width:100%">
+            <img src="{{ asset('img/new_design_img/Slider-5.jpg') }}" alt="New York" style="height: 85vh; width:100%" class="d-block" style="width:100%">
             <div class="carousel-caption">
                 <h1>Revolutionizing Batch Manufacturing</h1>
                 <p>Mesprosoft with its strong competency in using SAP @ Manufacturing is offering a solution to Process Industries with eBMR, where in without any additional License cost the solution can be integrated for Batch Manufacturing record on real time in electronic mode. </p>

@@ -3,13 +3,13 @@
 @section('content')
 
 <section class="hdr_bg">
-  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/service.jpg' )}}"></div>
+  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/Services.jpg' )}}"></div>
     <div class="img_dv">
         <div class="row">
             <div class="col-md-3"></div>
             <div class="col-md-9">
                 <h1>Services</h1>
-                <p>Mesprosoft has designed tailored solutions. So however distinctive your processes may be, you can now integrate and streamline your business processes with our SAP solutions,</p>
+                <p>At Mesprosoft, we are committed to assisting our clients in successfully enhancing their business operations through the application of cutting-edge software solutions.</p>
             </div>
         </div>
 
@@ -22,8 +22,9 @@
 
             <div class="col-lg-12 text-center">
                 <h3 class="display-4 mb-5">Mespro Services</h3>
-                <p>Mesprosoft has designed tailored solutions for industries across verticals. Mesprosoft has leveraged SAP technology and its superior features to build solutions that align perfectly with vertical business requirements. So however distinctive your processes may be, you can now integrate and streamline your business processes with our SAP solutions, and ensure that your operations and business performance are strengthened enough to give you the thrust for sustained growth and become profitable, Mesprosoft offers SAP implementation services & solutions to your strategic and current needs.</p>
-                <p>Mesprosoft has designed tailored solutions for industries across verticals. Mesprosoft has leveraged SAP technology and its superior features to build solutions that align perfectly with vertical business requirements. So however distinctive your processes may be, you can now integrate and streamline your business processes with our SAP solutions, and ensure that your operations and business performance are strengthened enough.</p>
+                <p>At Mesprosoft, we are committed to assisting our clients in successfully enhancing their business operations through the application of cutting-edge software solutions. Our main goal is to increase an organisation's productivity, efficiency, and profitability by utilising the best software tools and technology available today.</p>
+                <p>We provide a broad range of goods and services, all of which are focused on enhancing business metrics and procedures. We have solutions that are specifically designed to suit your unique demands and issues, whether you are a big corporation or a tiny startup.</p>
+            <p>We provide services that cover every phase of the software development lifecycle, from gathering and analysing requirements through designing, creating, testing, deploying, and providing continuous support. Our staff is made up of highly qualified experts with years of expertise who are knowledgeable about current technology and best practices in the field. They collaborate closely with our clients to comprehend their needs and create tailored solutions supporting their corporate goals.</p>
             </div>
 
         </div>
@@ -73,8 +74,8 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center service_link_below_sec">
-                <p>Mesprosoft has superior features to build solutions that you can now integrate and streamline your business processes with our SAP solutions, and ensure that your operations and business performance are strengthened enough to give you the thrust for sustained growth and become profitable, Mesprosoft offers SAP implementation services & solutions to your strategic and current needs.</p>
-                <p>Mesprosoft has designed tailored solutions for industries across verticals. Mesprosoft has leveraged SAP technology and its superior across verticals. Mesprosoft has leveraged SAP technology and its superior features to build solutions that align perfectly with vertical business requirements. So however distinctive your processes may be, you can now integrate and streamline your business processes with our SAP solutions, and ensure that your operations and business performance are strengthened enough.</p>
+                <p>As the most dependable provider of IT services, Mesprosoft aspires to become that. We are dedicated to keeping our word and enhancing our clients' operations. We want to be your dependable partner in advancing digital transformation and attaining sustainable growth with our knowledge, commitment, and customer-centric outlook.</p>
+                <p>Get in touch with us right now to learn more about how Mesprosoft's superior software solutions and services can strengthen your company.</p>
                 <!-- <a href="#" class="btn btn-primary btn-sm">Read More</a> -->
             </div>
         </div>
