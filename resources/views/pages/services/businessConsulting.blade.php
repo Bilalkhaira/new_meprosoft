@@ -38,7 +38,7 @@
     <div class="col-md-8 point_col">
       <div class="row">
         <div class="col-md-3 text-right">
-          <img src="{{ asset('img/new_design_img/service_link1.png') }}" width="40%" alt="">
+          <img src="{{ asset('img/new_design_img/icons/285961_Circles_R_neg_orange.png') }}" width="40%" alt="">
         </div>
         <div class="col-md-9">
           <h3 class="display-7 mb-5">Transform Your Business, Delight Your Customers</h3>
@@ -47,7 +47,7 @@
       </div>
       <div class="row news_row_margin">
         <div class="col-md-3 text-right">
-          <img src="{{ asset('img/new_design_img/service_link1.png') }}" width="40%" alt="">
+          <img src="{{ asset('img/new_design_img/icons/285961_Circles_R_orange.png') }}" width="40%" alt="">
         </div>
         <div class="col-md-9">
           <h3 class="display-7 mb-5">Maximize Business Performance</h3>
@@ -56,7 +56,7 @@
       </div>
       <div class="row news_row_margin">
         <div class="col-md-3 text-right">
-          <img src="{{ asset('img/new_design_img/service_link1.png') }}" width="40%" alt="">
+          <img src="{{ asset('img/new_design_img/icons/286242_Canada-Globe_R_orange.png') }}" width="40%" alt="">
         </div>
         <div class="col-md-9">
           <h3 class="display-7 mb-5">Mesprosoft Recommends SAP S/4HANA Cloud</h3>

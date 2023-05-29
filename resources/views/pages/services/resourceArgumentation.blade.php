@@ -44,7 +44,7 @@
     <div class="col-md-8 point_col">
       <div class="row">
         <div class="col-md-3 text-right">
-          <img src="{{ asset('img/new_design_img/service_link1.png') }}" width="40%" alt="">
+          <img src="{{ asset('img/new_design_img/icons/288136_SAP_HANA_Cloud_Adaptive_Server_Enterprise_Replication_R_orange.png') }}" width="40%" alt="">
         </div>
         <div class="col-md-9">
           <h3 class="display-7 mb-5">Unleash the Potential: Amplify Your Team's Capabilities with Resource Augmentation</h3>
@@ -52,7 +52,7 @@
       </div>
       <div class="row news_row_margin">
         <div class="col-md-3 text-right">
-          <img src="{{ asset('img/new_design_img/service_link1.png') }}" width="40%" alt="">
+          <img src="{{ asset('img/new_design_img/icons/288147_CSF_bundle_2_R_neg_orange.png') }}" width="40%" alt="">
         </div>
         <div class="col-md-9">
           <h3 class="display-7 mb-5">Elevate Your Projects with Expert Resource Augmentation</h3>
@@ -60,7 +60,7 @@
       </div>
       <div class="row news_row_margin">
         <div class="col-md-3 text-right">
-          <img src="{{ asset('img/new_design_img/service_link1.png') }}" width="40%" alt="">
+          <img src="{{ asset('img/new_design_img/icons/288147_CSF_bundle_2_R_orange.png') }}" width="40%" alt="">
         </div>
         <div class="col-md-9">
           <h3 class="display-7 mb-5">Bridging the Gap with Resource Augmentation Services</h3>

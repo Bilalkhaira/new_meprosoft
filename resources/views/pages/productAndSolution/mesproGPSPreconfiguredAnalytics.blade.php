@@ -38,7 +38,7 @@
     <div class="col-md-8 point_col">
       <div class="row">
         <div class="col-md-3 text-right">
-          <img src="{{ asset('img/new_design_img/service_link1.png') }}" width="40%" alt="">
+          <img src="{{ asset('img/new_design_img/icons/291099_78320_Automated_Revenue_Management_Var_R_orange.png') }}" width="40%" alt="">
         </div>
         <div class="col-md-9">
           <h3 class="display-7 mb-5">Mesprosoft BOBJ-GPS for Seamless Vehicle Tracking</h3>
@@ -46,7 +46,7 @@
       </div>
       <div class="row news_row_margin">
         <div class="col-md-3 text-right">
-          <img src="{{ asset('img/new_design_img/service_link1.png') }}" width="40%" alt="">
+          <img src="{{ asset('img/new_design_img/icons/291099_78320_Automated_Revenue_Management_Var_R_neg_orange.png') }}" width="40%" alt="">
         </div>
         <div class="col-md-9">
           <h3 class="display-7 mb-5">Mesprosoft's Smart Solutions for On-Demand Vehicle Tracking</h3>
@@ -54,7 +54,7 @@
       </div>
       <div class="row news_row_margin">
         <div class="col-md-3 text-right">
-          <img src="{{ asset('img/new_design_img/service_link1.png') }}" width="40%" alt="">
+          <img src="{{ asset('img/new_design_img/icons/291100_78320_Automated_Revenue_Management_R_orange.png') }}" width="40%" alt="">
         </div>
         <div class="col-md-9">
           <h3 class="display-7 mb-5">Mesprosoft's GPS-powered Solutions for Effortless Vehicle Tracking</h3>

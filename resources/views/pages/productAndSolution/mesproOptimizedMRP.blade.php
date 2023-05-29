@@ -38,7 +38,7 @@
     <div class="col-md-8 point_col">
       <div class="row">
         <div class="col-md-3 text-right">
-          <img src="{{ asset('img/new_design_img/service_link1.png') }}" width="40%" alt="">
+          <img src="{{ asset('img/new_design_img/icons/293468_ireland.png') }}" width="40%" alt="">
         </div>
         <div class="col-md-9">
           <h3 class="display-7 mb-5">Revolutionize Your Inventory Control</h3>
@@ -46,7 +46,7 @@
       </div>
       <div class="row news_row_margin">
         <div class="col-md-3 text-right">
-          <img src="{{ asset('img/new_design_img/service_link1.png') }}" width="40%" alt="">
+          <img src="{{ asset('img/new_design_img/icons/293468_ireland_bread_R_orange.png') }}" width="40%" alt="">
         </div>
         <div class="col-md-9">
           <h3 class="display-7 mb-5">Mesprosoft's Optimized MRP Solutions for Superior Results</h3>
@@ -54,7 +54,7 @@
       </div>
       <div class="row news_row_margin">
         <div class="col-md-3 text-right">
-          <img src="{{ asset('img/new_design_img/service_link1.png') }}" width="40%" alt="">
+          <img src="{{ asset('img/new_design_img/icons/285462_Inspire-lightbulb_R_neg_orange.png') }}" width="40%" alt="">
         </div>
         <div class="col-md-9">
           <h3 class="display-7 mb-5">Mesprosoft's Integrated Planning and Execution Tools for Superior Inventory Control</h3>

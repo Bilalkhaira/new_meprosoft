@@ -36,7 +36,7 @@
     <div class="col-md-8 point_col">
       <div class="row">
         <div class="col-md-3 text-right">
-          <img src="{{ asset('img/new_design_img/service_link1.png') }}" width="40%" alt="">
+          <img src="{{ asset('img/new_design_img/icons/288003_iLM_v1_R_orange.png') }}" width="40%" alt="">
         </div>
         <div class="col-md-9">
           <h3 class="display-7 mb-5">Boost Your Productivity On-the-Go</h3>
@@ -44,7 +44,7 @@
       </div>
       <div class="row news_row_margin">
         <div class="col-md-3 text-right">
-          <img src="{{ asset('img/new_design_img/service_link1.png') }}" width="40%" alt="">
+          <img src="{{ asset('img/new_design_img/icons/289597_UAE_Pavilion_R_neg_orange.png') }}" width="40%" alt="">
         </div>
         <div class="col-md-9">
           <h3 class="display-7 mb-5">Supercharge Your Buying Journey with Mesprosoft</h3>
@@ -52,7 +52,7 @@
       </div>
       <div class="row news_row_margin">
         <div class="col-md-3 text-right">
-          <img src="{{ asset('img/new_design_img/service_link1.png') }}" width="40%" alt="">
+          <img src="{{ asset('img/new_design_img/icons/291065_Global_Student_Network_R_orange.png') }}" width="40%" alt="">
         </div>
         <div class="col-md-9">
           <h3 class="display-7 mb-5">Mobile Productivity Tools for Today's Fast-Paced Work</h3>

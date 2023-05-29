@@ -120,7 +120,9 @@
         <div class="col-md-3">
             <div class="row">
                 <div class="col-md-3 circle_col">
-                    <span class="circle"></span>
+                    <!-- <span class="circle"> -->
+                        <img src="{{ asset('img/new_design_img/icons/288005_iLM_v3_R_orange.png') }}" width="100%" alt="">
+                    <!-- </span> -->
                 </div>
                 <div class="col-md-9">
                     <p>In this example the navigation bar is In this example the navigation bar is In this example</p>
@@ -130,7 +132,8 @@
         <div class="col-md-3">
             <div class="row">
                 <div class="col-md-3 circle_col">
-                    <span class="circle"></span>
+                    <!-- <span class="circle"></span> -->
+                    <img src="{{ asset('img/new_design_img/icons/291075_Continuous_attention_to_excellence_R_orange.png') }}" width="100%" alt="">
                 </div>
                 <div class="col-md-9">
                     <p>Mesprosoft understand that digital transformation is the key to improving business operations and enhancing customer experiences.</p>
@@ -140,7 +143,8 @@
         <div class="col-md-3">
             <div class="row">
                 <div class="col-md-3 circle_col">
-                    <span class="circle"></span>
+                    <!-- <span class="circle"></span> -->
+                    <img src="{{ asset('img/new_design_img/icons/291076_Deliver_value_frequently_R_orange.png') }}" width="100%" alt="">
                 </div>
                 <div class="col-md-9">
                     <p>Mesprosoft has extensive expertise in S/4HANA conversion, helping businesses to migrate from their existing SAP systems to the powerful</p>
@@ -150,7 +154,8 @@
         <div class="col-md-3">
             <div class="row">
                 <div class="col-md-3 circle_col">
-                    <span class="circle"></span>
+                    <!-- <span class="circle"></span> -->
+                    <img src="{{ asset('img/new_design_img/icons/288316_WIPS_R_orange.png') }}" width="100%" alt="">
                 </div>
                 <div class="col-md-9">
                     <p>In this example the navigation bar is In this example the navigation bar is In this example</p>

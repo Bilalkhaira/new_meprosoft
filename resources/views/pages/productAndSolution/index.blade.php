@@ -56,38 +56,38 @@
 <div class="container-fluid">
     <div class="row">
         <div class="col-md-4 service_link text-center">
-            <img src="{{ asset('img/new_design_img/optimize_link.png') }}" width="100px" height="100px" alt="">
+            <img src="{{ asset('img/new_design_img/icons/286242_Canada-Globe_R_orange.png') }}" width="100px" height="100px" alt="">
             <h3 class="display-7 mb-5">Dispatch Automation </h3>
             <a href="{{ route('productAndSolution.dispatchAutomation') }}" class="btn btn-primary btn-sm">Read More</a>
         </div>
 
         <div class="col-md-4 service_link service_link_bg text-center">
-            <img src="{{ asset('img/new_design_img/optimize_link1.png') }}" width="100px" height="100px" alt="">
+            <img src="{{ asset('img/new_design_img/icons/291100_78320_Automated_Revenue_Management_R_orange.png') }}" width="100px" height="100px" alt="">
             <h3 class="display-7 mb-5">Dynamic Machine Scheduling </h3>
             <a href="{{ route('productAndSolution.dynamicMachineScheduling') }}" class="btn btn-primary btn-sm">Read More</a>
         </div>
 
         <div class="col-md-4 service_link text-center">
-            <img src="{{ asset('img/new_design_img/optimize_link.png') }}" width="100px" height="100px" alt="">
+            <img src="{{ asset('img/new_design_img/icons/289596_Energy_Trees_R_orange.png') }}" width="100px" height="100px" alt="">
             <h3 class="display-7 mb-5">Electronic Batch Manufacturing </h3>
             <a href="{{ route('productAndSolution.electronicBatchManufacturing') }}" class="btn btn-primary btn-sm">Read More</a>
         </div>
     </div>
     <div class="row">
         <div class="col-md-4 service_link service_link_bg text-center">
-            <img src="{{ asset('img/new_design_img/optimize_link1.png') }}" width="100px" height="100px" alt="">
+            <img src="{{ asset('img/new_design_img/icons/287426_Global learning_R_orange.png') }}" width="100px" height="100px" alt="">
             <h4 class="display-7 mb-5">Mespro GSP Preconfigured Analytics</h4>
             <a href="{{ route('productAndSolution.mesproGPSPreconfiguredAnalytics') }}" class="btn btn-primary btn-sm">Read More</a>
         </div>
 
         <div class="col-md-4 service_link text-center">
-            <img src="{{ asset('img/new_design_img/optimize_link.png') }}" width="100px" height="100px" alt="">
+            <img src="{{ asset('img/new_design_img/icons/292349_Brake_Disk_R_orange.png') }}" width="100px" height="100px" alt="">
             <h3 class="display-7 mb-5">Mespro Life Science CFR Part 11</h3>
             <a href="{{ route('productAndSolution.mesproLifeScienceCFRPart11') }}" class="btn btn-primary btn-sm">Read More</a>
         </div>
 
         <div class="col-md-4 service_link service_link_bg text-center">
-            <img src="{{ asset('img/new_design_img/optimize_link1.png') }}" width="100px" height="100px" alt="">
+            <img src="{{ asset('img/new_design_img/icons/291099_78320_Automated_Revenue_Management_Var_R_orange.png') }}" width="100px" height="100px" alt="">
             <h3 class="display-7 mb-5">Mespro Paperess Manufacturing </h3>
             <a href="{{ route('productAndSolution.mesproPaperessManufacturing') }}" class="btn btn-primary btn-sm">Read More</a>
         </div>

@@ -29,7 +29,8 @@
         <div class="col-md-6 open_job">
             <div class="row">
                 <div class="col-md-2">
-                    <span class="career_circle"></span>
+                    <!-- <span class="career_circle"></span> -->
+                    <img src="{{ asset('img/new_design_img/icons/288005_iLM_v3_R_orange.png') }}" width="100%" alt="">
                 </div>
                 <div class="col-md-10">
                     <h3>SAP MM Trainee:</h3>
@@ -48,7 +49,8 @@
         <div class="col-md-6 open_job">
             <div class="row">
                 <div class="col-md-2">
-                    <span class="career_circle"></span>
+                    <!-- <span class="career_circle"></span> -->
+                    <img src="{{ asset('img/new_design_img/icons/288316_WIPS_R_orange.png') }}" width="100%" alt="">
                 </div>
                 <div class="col-md-10">
                     <h3>SAP PS Trainee :</h3>
@@ -70,7 +72,8 @@
         <div class="col-md-6 open_job">
             <div class="row">
                 <div class="col-md-2">
-                    <span class="career_circle"></span>
+                    <!-- <span class="career_circle"></span> -->
+                    <img src="{{ asset('img/new_design_img/icons/288194_Digital.png') }}" width="100%" alt="">
                 </div>
                 <div class="col-md-10">
                     <h3>SAP CO Trainees:</h3>
@@ -91,7 +94,8 @@
         <div class="col-md-6 open_job">
             <div class="row">
                 <div class="col-md-2">
-                    <span class="career_circle"></span>
+                    <!-- <span class="career_circle"></span> -->
+                    <img src="{{ asset('img/new_design_img/icons/287426_Global learning_R_orange.png') }}" width="100%" alt="">
                 </div>
                 <div class="col-md-10">
                     <h3>SAP PP Trainees:</h3>
