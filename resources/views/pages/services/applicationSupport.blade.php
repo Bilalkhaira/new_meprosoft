@@ -27,7 +27,10 @@
       <li><b>Application Maintenance and Upgrades:</b> Regular maintenance and upgrades are essential to ensure the long-term performance and reliability of software applications. Mesprosoft offers proactive application maintenance services, including performance monitoring, error tracking, and optimisation. We also assist clients in planning and implementing software upgrades, incorporating new features, enhancements, and security patches to keep applications up-to-date and secure.</li>
     </ul>
 
-    <p>At Mesprosoft, we try to provide superior application support services that go beyond problem-solving. Through proactive support, ongoing development, and trustworthy help, we hope to forge long-term relationships with our clients. Our devoted support team is dedicated to providing our clients with timely and effective solutions so they can confidently concentrate on their main business operations.</p>
+   
+</div>
+<div class="col-md-12">
+<p>At Mesprosoft, we try to provide superior application support services that go beyond problem-solving. Through proactive support, ongoing development, and trustworthy help, we hope to forge long-term relationships with our clients. Our devoted support team is dedicated to providing our clients with timely and effective solutions so they can confidently concentrate on their main business operations.</p>
     <p>Get in touch with us right now to find out more about how Mesprosoft's application support services can enhance the dependability and performance of your software programmes while delivering a superior user experience.</p>
 </div>
   </div>
