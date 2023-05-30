@@ -1,5 +1,14 @@
 @extends('layouts.master')
-
+@section('css')
+<style>
+  p{
+    text-align: justify;
+  }
+  li{
+    text-align: justify;
+  }
+</style>
+@endsection
 @section('content')
 @if(!empty($data))
 

@@ -16,7 +16,7 @@
 
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="{{ asset('img/new_design_img/Slider-1.jpg') }}" alt="Los Angeles" style="height: 85vh; width:100%" class="d-block" style="width:100%">
+            <img src="{{ asset('img/new_design_img/Banner-1.png') }}" alt="Los Angeles" style="width:100%" class="d-block" style="width:100%">
             <div class="carousel-caption">
                 <h1>Unleash Your Business Potential with S/4HANA RISE for Cloud</h1>
                 <p>Mesprosoft S/4HANA Cloud services empowers customers with a cutting-edge, adaptable, and intelligent ERP solution that boosts efficiency, fosters innovation, and propels business expansion within a cloud-centric ecosystem. </p>

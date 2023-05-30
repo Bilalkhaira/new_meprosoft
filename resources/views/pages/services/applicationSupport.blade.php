@@ -1,5 +1,14 @@
 @extends('layouts.master')
-
+@section('css')
+<style>
+  p{
+    text-align: justify;
+  }
+  li{
+    text-align: justify;
+  }
+</style>
+@endsection
 @section('content')
 <section class="hdr_bg">
   <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/ApplicationSupport.jpg' )}}"></div>
@@ -17,7 +26,7 @@
 <div class="container">
   <div class="row paperLess_row">
     <div class="col-md-6">
-      <img src="{{ asset('img/new_design_img/paperLess1.png') }}" width="100%" alt="">
+      <img src="{{ asset('img/new_design_img/53.png') }}" width="100%" alt="">
     </div>
     <div class="col-md-6">
       <p>Mesprosoft provides comprehensive application support services to ensure the smooth functioning and uninterrupted operation of software applications utilised by our clients. We understand the criticality of reliable application support in maximising business productivity and minimising downtime. Our team of skilled professionals is dedicated to resolving issues promptly, providing technical expertise, and offering continuous support to meet our client's needs.</p>

@@ -1,5 +1,14 @@
 @extends('layouts.master')
-
+@section('css')
+<style>
+  p{
+    text-align: justify;
+  }
+  li{
+    text-align: justify;
+  }
+</style>
+@endsection
 @section('content')
 <section class="hdr_bg">
   <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/BTP.jpg' )}}"></div>
@@ -17,10 +26,10 @@
 <div class="container">
   <div class="row paperLess_row">
     <div class="col-md-6">
-      <img src="{{ asset('img/new_design_img/paperLess1.png') }}" width="100%" alt="">
+      <img src="{{ asset('img/new_design_img/54.png') }}" width="100%" alt="">
     </div>
     <div class="col-md-6">
-      <h3 class="display-7 mb-5">BTP</h3>
+      <!-- <h3 class="display-7 mb-5">BTP</h3> -->
       <p>Mesprosoft understand that adding value to your business is crucial to its success. That's why we recommend leveraging SAP Business Technology Platform (BTP) cloud services, a powerful suite of tools designed to help businesses transform their operations and enhance customer experiences. SAP BTP provides a flexible, scalable, and secure cloud-based platform that enables businesses to leverage the power of emerging technologies such as IoT, AI, and ML to gain insights and optimize their operations. We can help you unlock the full potential of SAP BTP by providing tailored solutions that meet your business requirements. Our team of experts can help you implement SAP BTP cloud services and integrate them with your existing systems. This will enable you to improve the efficiency of your business processes, reduce costs, and enhance customer engagement. Additionally, SAP BTP provides a secure environment to protect your data and ensure compliance with industry regulations. Overall, by partnering with Mesprosoft to leverage SAP BTP cloud services, you can add value to your business by enhancing operational efficiency, improving customer engagement, and staying ahead of the competition in today's digital landscape.</p>
     <a href="{{ route('contactUs') }}"> Contact us today to learn more about how we can help you leverage the power of SAP BTP to transform your business.</a>
     </div>

@@ -1,5 +1,14 @@
 @extends('layouts.master')
-
+@section('css')
+<style>
+  p{
+    text-align: justify !important;
+  }
+  li{
+    text-align: justify;
+  }
+</style>
+@endsection
 @section('content')
 <section class="hdr_bg">
   <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/S_4HanaConversion.jpg' )}}"></div>
@@ -18,7 +27,7 @@
   <div class="row paperLess_row">
  
     <div class="col-md-6">
-      <img src="{{ asset('img/new_design_img/paperLess1.png') }}" width="100%" alt="">
+      <img src="{{ asset('img/new_design_img/52.png') }}" width="100%" alt="">
     </div>
     <div class="col-md-6">
       <p>Mesprosoft has extensive expertise in S/4HANA conversion, helping businesses to migrate from their existing SAP systems to the powerful and innovative S/4HANA platform. Our approach to S/4HANA conversion is customized to meet the unique needs of each customer, ensuring a seamless transition with minimal disruption to operations. Our S/4HANA conversion services include a comprehensive analysis of existing SAP systems, identifying areas that can be optimized and streamlined for better efficiency. We also offer detailed project planning, testing, and training to ensure that the transition is successful and that all stakeholders are fully prepared to leverage the new system. One of our recent successful customer stories is the case of a global manufacturing company that was struggling with outdated legacy systems that were impeding their growth and limiting their ability to innovate. Mesprosoft worked closely with the company to develop a customized plan for a smooth transition to S/4HANA. The project involved a thorough analysis of the company's existing SAP systems, followed by a phased migration to S/4HANA, with detailed testing and training throughout the process. With Mesprosoft's guidance and support, the company was able to successfully complete the transition and leverage the full capabilities of the S/4HANA platform. As a result, the company saw significant improvements in efficiency, with streamlined processes and better data insights that enabled them to make informed decisions and innovate more effectively. Overall, the successful S/4HANA conversion helped the company to achieve its growth and innovation goals, positioning them for continued success in the future.</p>

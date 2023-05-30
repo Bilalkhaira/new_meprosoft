@@ -1,5 +1,14 @@
 @extends('layouts.master')
-
+@section('css')
+<style>
+  p{
+    text-align: justify;
+  }
+  li{
+    text-align: justify;
+  }
+</style>
+@endsection
 @section('content')
 <section class="hdr_bg">
   <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/ResourceAgumentation.jpg' )}}"></div>

@@ -1,5 +1,14 @@
 @extends('layouts.master')
-
+@section('css')
+<style>
+  p{
+    text-align: justify !important;
+  }
+  li{
+    text-align: justify;
+  }
+</style>
+@endsection
 @section('content')
 
 <section class="hdr_bg">
@@ -20,7 +29,7 @@
 <div class="container">
   <div class="row case_study_sec">
     <div class="col-md-4">
-      <img src="{{ asset('img/new_design_img/case_study.png') }}" width="100%" alt="">
+      <img src="{{ asset('img/new_design_img/60.png') }}" width="100%" alt="">
     </div>
     <div class="col-md-8">
       <h3 class="display-4 mb-5">AIRCRAFT Industries</h3>

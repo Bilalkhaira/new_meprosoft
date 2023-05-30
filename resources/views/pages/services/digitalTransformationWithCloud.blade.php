@@ -1,5 +1,14 @@
 @extends('layouts.master')
-
+@section('css')
+<style>
+  p{
+    text-align: justify;
+  }
+  li{
+    text-align: justify;
+  }
+</style>
+@endsection
 @section('content')
 <section class="hdr_bg">
   <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/DigitalTransformationWithCloud.jpg' )}}"></div>
@@ -18,7 +27,7 @@
 <div class="container">
   <div class="row paperLess_row">
     <div class="col-md-6">
-      <img src="{{ asset('img/new_design_img/paperLess1.png') }}" width="100%" alt="">
+      <img src="{{ asset('img/new_design_img/51.png') }}" width="100%" alt="">
     </div>
     <div class="col-md-6">
       <p>Mesprosoft understand that digital transformation is the key to improving business operations and enhancing customer experiences. 

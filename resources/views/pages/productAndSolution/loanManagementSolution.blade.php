@@ -1,5 +1,14 @@
 @extends('layouts.master')
-
+@section('css')
+<style>
+  p{
+    text-align: justify;
+  }
+  li{
+    text-align: justify;
+  }
+</style>
+@endsection
 @section('content')
 <section class="hdr_bg">
   <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/LoanManagementSolution.jpg' )}}"></div>
@@ -17,7 +26,7 @@
 <div class="container">
   <div class="row paperLess_row">
     <div class="col-md-6">
-      <img src="{{ asset('img/new_design_img/paperLess1.png') }}" width="100%" alt="">
+      <img src="{{ asset('img/new_design_img/55.png') }}" width="100%" alt="">
     </div>
     <div class="col-md-6">
       <p>Mesprosoft helps you through a comprehensive portfolio of end-to-end loan management solutions while adhering to the industry standard for loan document compliance. We believe in delivering a consistent, seamless and fully digitalized borrower experience for corporations & consumers. All lending activities will be held within intuitive workflows & limited learning curves, which guarantees a 360-degree view of all relationships and interactions done.</p>
