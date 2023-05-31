@@ -11,7 +11,7 @@
 @endsection
 @section('content')
 <section class="hdr_bg">
-  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/PROCESSMANUFACTURINGCOCKPIT.jpg' )}}"></div>
+  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/PROCESSMANUFACTURINGCOCKPIT.png' )}}"></div>
   <div class="img_dv">
     <div class="row">
       <div class="col-md-3"></div>

@@ -2,7 +2,7 @@
 @section('css')
 <style>
   p{
-    text-align: justify !important;
+    text-align: justify;
   }
   li{
     text-align: justify;
@@ -12,13 +12,13 @@
 @section('content')
 
 <section class="hdr_bg">
-  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/RealEstateIndustries.jpg' )}}"></div>
+  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/RealEstateIndustries.png' )}}"></div>
   <div class="img_dv">
     <div class="row">
       <div class="col-md-3"></div>
       <div class="col-md-9">
         <h1>Real Estate Industries</h1>
-        <p>Customer is the Leading Real Estate Company In India with
+        <p>Our Customer is the Leading Real Estate Company In India with
           highest number of Commercial IT Park in Bangalore, Have
           their own construction</p>
       </div>
@@ -34,7 +34,7 @@
     </div>
     <div class="col-md-8">
       <h3 class="display-4 mb-5">Real Estate Industries</h3>
-      <p>Customer is the Leading Real Estate Company In India with
+      <p>Our Customer is the Leading Real Estate Company In India with
         highest number of Commercial IT Park in Bangalore, Have
         their own construction</p>
       <ul class="case_study_outer_list">

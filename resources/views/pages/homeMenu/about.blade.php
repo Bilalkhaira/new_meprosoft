@@ -3,7 +3,7 @@
 @section('content')
 
 <section class="hdr_bg">
-  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/AboutUs.jpg' )}}"></div>
+  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/AboutUs.png' )}}"></div>
 </section>
 
 <div class="container-fluid home_menu_hdng">
@@ -17,7 +17,7 @@
 <div class="container">
   <div class="row">
     <div class="col-md-12 text-center">
-      <p>We aim to improve the Business processes of our<br> customers by building good metrics and processes <br> using the world’s best software.</p>
+      <p>We aim to improve the Business processes of our customers by building good metrics and processes  using the world’s best software.</p>
     </div>
   </div>
   <div class="row home_menu_border">

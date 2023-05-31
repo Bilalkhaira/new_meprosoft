@@ -11,12 +11,12 @@
 @endsection
 @section('content')
 <section class="hdr_bg">
-  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/PLCMESWeighBridgeIntegration.jpg' )}}"></div>
+  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/service6.png' )}}"></div>
   <div class="img_dv">
     <div class="row">
       <div class="col-md-3"></div>
       <div class="col-md-9">
-        <h1>PLC/MES/Weigh Bridge Integration</h1>
+        <h1>PLC/MES/Weighbridge Integration</h1>
         <p>India is in growth path and so are all of our customers. Often companies face stiff challenges when transitioning from a Pvt Ltd company to LTD company and the compliance requirements for preparation for IPO could be very much challenging.</p>
       </div>
     </div>

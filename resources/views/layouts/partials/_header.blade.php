@@ -83,7 +83,7 @@
 
                                     <div class="col-md-4">
                                         <img src="{{ asset('img/new_design_img/header.png') }}" width="15px" alt="">
-                                        <a href="{{ route('services.PLCMESWeighBridgeIntegration') }}">PLC MES Weigh Bridge Integration</a>
+                                        <a href="{{ route('services.PLCMESWeighBridgeIntegration') }}">PLC MES Weighbridge Integration</a>
                                     </div>
                                     <div class="col-md-4">
                                         <img src="{{ asset('img/new_design_img/header.png') }}" width="15px" alt="">
@@ -146,7 +146,7 @@
 
                                     <div class="col-md-4">
                                         <img src="{{ asset('img/new_design_img/header.png') }}" width="15px" alt="">
-                                        <a href="{{ route('productAndSolution.mesproPaperessManufacturing') }}">Mespro Paper Less Manufacturing</a>
+                                        <a href="{{ route('productAndSolution.mesproPaperessManufacturing') }}">Mespro Paperless Manufacturing</a>
                                     </div>
                                     <div class="col-md-4">
                                         <img src="{{ asset('img/new_design_img/header.png') }}" width="15px" alt="">

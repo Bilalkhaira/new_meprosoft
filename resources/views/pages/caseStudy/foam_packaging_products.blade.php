@@ -2,7 +2,7 @@
 @section('css')
 <style>
   p{
-    text-align: justify !important;
+    text-align: justify;
   }
   li{
     text-align: justify;
@@ -12,13 +12,13 @@
 @section('content')
 
 <section class="hdr_bg">
-  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/FoamPackagingProducts.jpg' )}}"></div>
+  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/FoamPackagingProducts.png' )}}"></div>
   <div class="img_dv">
     <div class="row">
       <div class="col-md-3"></div>
       <div class="col-md-9">
         <h1>Foam Packaging Products</h1>
-        <p>Customer is a leading international supplier of specialist
+        <p>Our Customer is a leading international supplier of specialist
           plastic, EVA foam and packaging products</p>
       </div>
     </div>
@@ -33,7 +33,7 @@
     </div>
     <div class="col-md-8">
       <h3 class="display-4 mb-5">Foam Packaging Products</h3>
-      <p>Customer is a leading international supplier of specialist
+      <p>Our Customer is a leading international supplier of specialist
         plastic, EVA foam and packaging products</p>
       <ul class="case_study_outer_list">
         <li>

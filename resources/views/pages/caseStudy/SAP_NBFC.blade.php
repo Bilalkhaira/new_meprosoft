@@ -2,7 +2,7 @@
 @section('css')
 <style>
   p{
-    text-align: justify !important;
+    text-align: justify;
   }
   li{
     text-align: justify;
@@ -12,13 +12,13 @@
 @section('content')
 
 <section class="hdr_bg">
-  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/SAPNBFC.jpg' )}}"></div>
+  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/SAPNBFC.png' )}}"></div>
   <div class="img_dv">
     <div class="row">
       <div class="col-md-3"></div>
       <div class="col-md-9">
         <h1>SAP NBFC</h1>
-        <p>Customer is One of the
+        <p>Our Customer is One of the
           leading NBFC’s specializing in
           financing the purchase of
           commercial vehicles and
@@ -36,7 +36,7 @@
     </div>
     <div class="col-md-8">
       <h3 class="display-4 mb-5">SAP NBFC</h3>
-      <p>Customer is One of the
+      <p>Our Customer is One of the
         leading NBFC’s specializing in
         financing the purchase of
         commercial vehicles and

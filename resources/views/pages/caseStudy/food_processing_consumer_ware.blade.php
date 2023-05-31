@@ -2,7 +2,7 @@
 @section('css')
 <style>
   p{
-    text-align: justify !important;
+    text-align: justify;
   }
   li{
     text-align: justify;
@@ -12,13 +12,13 @@
 @section('content')
 
 <section class="hdr_bg">
-  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/FoodProcessingConsumerWare.jpg' )}}"></div>
+  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/FoodProcessingConsumerWare.png' )}}"></div>
   <div class="img_dv">
     <div class="row">
       <div class="col-md-3"></div>
       <div class="col-md-9">
         <h1>Food Processing & Consumer Ware</h1>
-        <p>Customer is engaged in
+        <p>Our Customer is engaged in
           manufacturing and marketing
           natural colours, flavours and
           savoury blends to food and
@@ -36,7 +36,7 @@
     </div>
     <div class="col-md-8">
       <h3 class="display-4 mb-5">Food Processing & Consumer Ware</h3>
-      <p>Customer is engaged in
+      <p>Our Customer is engaged in
         manufacturing and marketing
         natural colours, flavours and
         savoury blends to food and

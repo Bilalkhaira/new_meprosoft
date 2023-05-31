@@ -3,7 +3,7 @@
 @section('content')
 
 <section class="hdr_bg">
-  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/WhyMespro.jpg' )}}"></div>
+  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/WhyMespro.png' )}}"></div>
 </section>
 
 <div class="container-fluid home_menu_hdng">
@@ -17,7 +17,7 @@
 <div class="container">
   <div class="row">
     <div class="col-md-12 text-center">
-      <p>We differentiate ourselves by ensuring that we follow a strict<br> regimen of not deviating from our core value <br>of value addition to the customer.</p>
+      <p>We differentiate ourselves by ensuring that we follow a strict regimen of not deviating from our core value of value addition to the customer.</p>
     </div>
   </div>
   <div class="row home_menu_border">

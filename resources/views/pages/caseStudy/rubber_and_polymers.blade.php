@@ -2,7 +2,7 @@
 @section('css')
 <style>
   p{
-    text-align: justify !important;
+    text-align: justify;
   }
   li{
     text-align: justify;
@@ -12,13 +12,13 @@
 @section('content')
 
 <section class="hdr_bg">
-  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/RubberandPolymers.jpg' )}}"></div>
+  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/RubberandPolymers.png' )}}"></div>
   <div class="img_dv">
     <div class="row">
       <div class="col-md-3"></div>
       <div class="col-md-9">
         <h1>Rubber And Polymers</h1>
-        <p>Customer is the leading Rubber retreads , allied rubber
+        <p>Our Customer is the leading Rubber retreads , allied rubber
           products for the Automotive industry and rubber reclaiming
           equipment manufacturer.</p>
       </div>
@@ -34,7 +34,7 @@
     </div>
     <div class="col-md-8">
       <h3 class="display-4 mb-5">Rubber And Polymers</h3>
-      <p>Customer is the leading Rubber retreads , allied rubber
+      <p>Our Customer is the leading Rubber retreads , allied rubber
         products for the Automotive industry and rubber reclaiming
         equipment manufacturer.</p>
       <ul class="case_study_outer_list">

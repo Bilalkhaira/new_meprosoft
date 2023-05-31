@@ -3,7 +3,7 @@
 @section('content')
 
 <section class="hdr_bg">
-  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/CoreValues.jpg' )}}"></div>
+  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/CoreValues.png' )}}"></div>
 </section>
 
 <div class="container-fluid home_menu_hdng">
@@ -17,7 +17,7 @@
 <div class="container">
   <div class="row">
     <div class="col-md-12 text-center">
-      <p>We value the individual, uphold the right to express <br> disagreement, and respect the time and efforts <br> of others. Nurture fairness, trust and respect.</p>
+      <p>We value the individual, uphold the right to express disagreement, and respect the time and efforts of others. Nurture fairness, trust and respect.</p>
     </div>
   </div>
   <div class="row home_menu_border">

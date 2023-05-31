@@ -3,7 +3,7 @@
 @section('content')
 
 <section class="hdr_bg">
-  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/ManagementTeam.jpg' )}}"></div>
+  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/ManagementTeam.png' )}}"></div>
 </section>
 
 <div class="container-fluid home_menu_hdng">
@@ -17,7 +17,7 @@
 <div class="container">
   <div class="row">
     <div class="col-md-12 text-center">
-      <p>Mesprosoft success is in direct relation to the<br> commitment,  expertise and knowledge that <br> our leadership team brings to its work.</p>
+      <p>Mesprosoft success is in direct relation to the commitment,  expertise and knowledge that our leadership team brings to its work.</p>
     </div>
   </div>
   <div class="row home_menu_border">

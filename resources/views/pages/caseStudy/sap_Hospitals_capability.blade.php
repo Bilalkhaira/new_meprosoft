@@ -2,7 +2,7 @@
 @section('css')
 <style>
   p{
-    text-align: justify !important;
+    text-align: justify;
   }
   li{
     text-align: justify;
@@ -12,13 +12,13 @@
 @section('content')
 
 <section class="hdr_bg">
-  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/SAPHospitalsCapability.jpg' )}}"></div>
+  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/SAPHospitalsCapability.png' )}}"></div>
   <div class="img_dv">
     <div class="row">
       <div class="col-md-3"></div>
       <div class="col-md-9">
         <h1>SAP Hospitals Capability</h1>
-        <p>Customer is a multi-specialty
+        <p>Our Customer is a multi-specialty
           tertiary care hospital providing
           high-quality medical aid.</p>
       </div>
@@ -34,7 +34,7 @@
     </div>
     <div class="col-md-8">
       <h3 class="display-4 mb-5">SAP Hospitals Capability</h3>
-      <p>Customer is a multi-specialty
+      <p>Our Customer is a multi-specialty
         tertiary care hospital providing
         high-quality medical aid.</p>
       <p>Mesprosoft Reengineered the

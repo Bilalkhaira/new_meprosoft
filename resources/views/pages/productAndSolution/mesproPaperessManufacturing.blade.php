@@ -11,12 +11,12 @@
 @endsection
 @section('content')
 <section class="hdr_bg">
-  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/PaperLessManufacturing.jpg' )}}"></div>
+  <div class="container-fluid wrapper bg-image" id="service_head_img" data-image-src="{{ asset('img/new_design_img/PaperLessManufacturing.png' )}}"></div>
   <div class="img_dv">
     <div class="row">
       <div class="col-md-3"></div>
       <div class="col-md-9">
-        <h1>Mespro Paperess Manufacturing</h1>
+        <h1>Mespro Paperless Manufacturing</h1>
         <p>For years, the manufacturing sector has used paper to keep track records of everything from shipping labels to product schedules. Even if it is an engineering drawing or a blueprint of a big project, the paper-based operation has long been indispensable.</p>
       </div>
     </div>

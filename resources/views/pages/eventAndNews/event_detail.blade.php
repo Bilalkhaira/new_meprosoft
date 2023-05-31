@@ -19,7 +19,7 @@
 <div class="container">
   <div class="row events">
     <div class="col-md-3 img_btn" type="button" data-toggle="modal" data-target="#imgPreview">
-      <img src="{{ asset('img/new_design_img/event1.jpg') }}" width="100%" alt="">
+      <img src="{{ asset('img/new_design_img/event12.jpg') }}" width="100%" alt="">
     </div>
     <div class="col-md-3 img_btn" type="button" data-toggle="modal" data-target="#imgPreview">
       <img class="img" src="{{ asset('img/new_design_img/event2.jpg') }}" width="100%" alt="">
