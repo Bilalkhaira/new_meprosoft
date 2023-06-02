@@ -1,9 +1,9 @@
 <header class="wrapper bg-light pt-1 nav_main">
     <nav class="navbar navbar-expand-lg classic transparent navbar-light">
         <div class="container-fluid flex-lg-row flex-nowrap align-items-center">
-            <div class="navbar-brand w-100">
+            <div class="w-100">
                 <a href="{{ route('home') }}">
-                    <img style="width: 170px !important; margin-top: -22px !important" src="{{ asset('img/logo-dark.png') }}" srcset="{{ asset('img/logo-dark@2x.png 2x') }}" alt="" />
+                    <img style="width: 170px !important; margin-top: -10px !important" src="{{ asset('img/new_logo.png') }}" srcset="{{ asset('img/new_logo.png') }}" alt="" />
                 </a>
             </div>
             <div class="navbar-collapse offcanvas offcanvas-nav offcanvas-start">
@@ -20,7 +20,7 @@
                                 <div class="row">
                                     <div class="col-md-12 text-center">
                                         <h3 class="display-7 mb-5">HOME</h3>
-                                        <p>With the custom created software, Mesprosoft, a pioneer in the field of business process automation, seeks to enhance all business operations.</p>
+                                        <p>Mesprosoft, a leader in business process automation, aims to improve all corporate activities.</p>
                                     </div>
                                 </div>
                                 <div class="row">
@@ -237,7 +237,7 @@
                                     </div>
                                     <div class="col-md-4">
                                         <img src="{{ asset('img/new_design_img/header.png') }}" width="15px" alt="">
-                                        <a href="{{ route('caseStudy.AIRCRAFTIndustries') }}">AIRCRAFT Industries</a>
+                                        <a href="{{ route('caseStudy.AIRCRAFTIndustries') }}">Aerospace Industries</a>
                                     </div>
 
                                     <div class="col-md-4">

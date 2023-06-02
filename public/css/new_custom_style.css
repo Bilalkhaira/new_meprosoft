@@ -80,13 +80,16 @@
     text-align: center !important;
     /* height: 250px; */
 }
-.ftr_above_sec h5{
+/* .ftr_above_sec h5{
     height: 15px;
     overflow: hidden;
 }
 .ftr_above_sec p{
     height: 40px;
     overflow: hidden;
+} */
+.news h3{
+    color: black;
 }
 
 .ftr_abv_dv {

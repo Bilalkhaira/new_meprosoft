@@ -17,8 +17,8 @@
     <div class="row">
       <div class="col-md-3"></div>
       <div class="col-md-9">
-        <h1>AIRCRAFT Industries</h1>
-        <p>Our Customer is the Leading Aircraft Component Manufacturer for
+        <h1>Aerospace Industries</h1>
+        <p>Our Customer is the Leading Aerospace Component Manufacturer for
           World leader like Boeing, Airbus and Bombardier</p>
       </div>
     </div>
@@ -32,8 +32,8 @@
       <img src="{{ asset('img/new_design_img/60.png') }}" width="100%" alt="">
     </div>
     <div class="col-md-8">
-      <h3 class="display-4 mb-5">AIRCRAFT Industries</h3>
-      <p>Our Customer is the Leading Aircraft Component Manufacturer for
+      <h3 class="display-4 mb-5">Aerospace Industries</h3>
+      <p>Our Customer is the Leading Aerospace Component Manufacturer for
         World leader like Boeing, Airbus and Bombardier</p>
       <ul class="case_study_outer_list">
         <li>
