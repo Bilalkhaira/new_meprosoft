@@ -17,11 +17,11 @@ return new class extends Migration
             $table->id();
             $table->string('name');
             $table->string('parent_id')->nullable();
-            $table->enum('status', ['active', 'inactive'])->default('active');
-            $table->timestamp('created_at')->useCurrent();
+            $table->tinyInteger('is_obsolute')->default(0);
+            $table->string('status')->default('active');
             $table->string('created_by')->nullable();
             $table->string('updated_by')->nullable();
-            $table->timestamp('updated_at')->useCurrentOnUpdate()->nullable();
+            $table->timestamps();
         });
     }
 };

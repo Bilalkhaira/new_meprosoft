@@ -13,15 +13,15 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::create('nav_menus', function (Blueprint $table) {
+        Schema::create('menu_pages_card_data', function (Blueprint $table) {
             $table->id();
-            $table->string('name');
-            $table->string('parent_id')->nullable();
-            $table->enum('status', ['active', 'inactive'])->default('active');
-            $table->timestamp('created_at')->useCurrent();
+            $table->unsignedInteger('parent_id')->nullable();
+            $table->string('heading')->nullable();
+            $table->longText('explanation')->nullable();
             $table->string('created_by')->nullable();
             $table->string('updated_by')->nullable();
-            $table->timestamp('updated_at')->useCurrentOnUpdate()->nullable();
+            $table->string('img')->nullable();
+            $table->timestamps();
         });
     }
 };
