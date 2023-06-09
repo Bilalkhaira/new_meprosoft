@@ -40,31 +40,41 @@
       <p>Delivered Features to Customers</p>
       <ul class="case_study_outer_list">
         <li>
-          <p><i class="fa fa-circle"></i> System-Driven Data Forecasting.</p>
+          <p>
+            <!-- <i class="fa fa-circle"></i>  -->
+            System-Driven Data Forecasting.</p>
           <ul class="case_study_inner_list">
             <li>Mesprosoft has designed tailored solutions. So however distinctive your processes may be, you can now integrate and streamline your business. Mesprosoft has designed tailored solutions. So however distinctive your processes may be.</li>
           </ul>
         </li>
         <li>
-          <p><i class="fa fa-circle"></i> Superior Planning for The Operation. </p>
+          <p>
+            <!-- <i class="fa fa-circle"></i>  -->
+            Superior Planning for The Operation. </p>
           <ul class="case_study_inner_list">
             <li>Mesprosoft has designed tailored solutions. So however distinctive your processes may be, you can now integrate and streamline your business. Mesprosoft has designed tailored solutions. So however distinctive your processes may be.</li>
           </ul>
         </li>
         <li>
-          <p><i class="fa fa-circle"></i> Barcode-Enabled Supply Chain and Operations Handling. </p>
+          <p>
+            <!-- <i class="fa fa-circle"></i>  -->
+            Barcode-Enabled Supply Chain and Operations Handling. </p>
           <ul class="case_study_inner_list">
             <li>Mesprosoft has designed tailored solutions. So however distinctive your processes may be, you can now integrate and streamline your business. Mesprosoft has designed tailored solutions. So however distinctive your processes may be.</li>
           </ul>
         </li>
         <li>
-          <p><i class="fa fa-circle"></i> Automation In the Purchasing Cycle.</p>
+          <p>
+            <!-- <i class="fa fa-circle"></i>  -->
+            Automation In the Purchasing Cycle.</p>
           <ul class="case_study_inner_list">
             <li>Mesprosoft has designed tailored solutions. So however distinctive your processes may be, you can now integrate and streamline your business. Mesprosoft has designed tailored solutions. So however distinctive your processes may be.</li>
           </ul>
         </li>
         <li>
-          <p><i class="fa fa-circle"></i> Enhanced Transparency in Profits, Products, And Divisions.</p>
+          <p>
+            <!-- <i class="fa fa-circle"></i>  -->
+            Enhanced Transparency in Profits, Products, And Divisions.</p>
           <ul class="case_study_inner_list">
             <li>Mesprosoft has designed tailored solutions. So however distinctive your processes may be, you can now integrate and streamline your business. Mesprosoft has designed tailored solutions. So however distinctive your processes may be.</li>
           </ul>

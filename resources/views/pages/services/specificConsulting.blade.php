@@ -37,7 +37,6 @@
       <ul>
       <li><b>IT Planning & Strategy:</b>Mesprosoft assists businesses in developing a complete IT strategy that is linked with their entire company objectives. They evaluate current IT infrastructure, identify weaknesses, and provide strategic solutions to maximize technology investments. This includes analyzing present systems, making recommendations for changes, and creating a roadmap for future technological implementations.</li>
       <li><b>Digital Transformation:</b>Mesprosoft aids businesses in adopting digital transformation in order to remain competitive in the continually expanding digital landscape. They advise on how organizations use emerging technologies like cloud computing, artificial intelligence (AI), the Internet of Things (IoT), and data analytics to streamline processes, improve customer experiences, and drive innovation.</li>
-      <li><b>Cybersecurity Consulting:</b>Mesprosoft offers cybersecurity consulting services to protect businesses from potential breaches and data vulnerabilities as cyber threats become more sophisticated. They evaluate the current security architecture, identify threats, and create robust security solutions like firewalls, intrusion detection systems, encryption protocols, and employee training programmes.</li>
       <li><b>IT Project Management:</b>Mesprosoft provides project management services to support the smooth execution of IT initiatives. Their skilled project managers oversee the design, execution, and monitoring of IT projects, ensuring that they are completed on time, under budget, and to the highest quality standards. They use best practices and processes to reduce risks and ensure the seamless execution of projects.</li>
     </ul>
 
@@ -50,10 +49,10 @@
   </div>
   <div class="row paperLess_form_sec">
     <div class="col-md-12 text-center mb-6">
-      <h1><b>Unlocking Insight Features:</b></h1>
+      <h1><b>Mesprosoft Offer a plethora of SAP consulting services like specific module implementation below are a few of those projects delivered:</b></h1>
     </div>
     <div class="col-md-8 point_col">
-      <div class="row">
+      <!-- <div class="row">
         <div class="col-md-3 text-right">
           <img src="{{ asset('img/new_design_img/icons/288136_SAP_HANA_Cloud_Adaptive_Server_Enterprise_Replication_R_orange.png') }}" width="40%" alt="">
         </div>
@@ -78,6 +77,24 @@
         <div class="col-md-9">
           <h3 class="display-7 mb-5">Integration and Cloud Migration Expertise</h3>
           
+        </div>
+      </div> -->
+
+      <div class="row news_row_margin">
+        <div class="col-md-3"></div>
+        <div class="col-md-9">
+          <ul>
+            <li>Ecommerce Interface integration(Amazon, Flipkart)</li>
+            <li>IFRS 16</li>
+            <li>ALM Implementation</li>
+            <li>Refx - Flexible Real estate Management</li>
+            <li>Spice Extraction Manufacturing</li>
+            <li>Project System for Construction specific</li>
+            <li>RPA and other process Automation</li>
+            <li>Fiori Implementation & development</li>
+            <li>BTP Development</li>
+            <li>Cloud Analytics</li>
+          </ul>
         </div>
       </div>
 

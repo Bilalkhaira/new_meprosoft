@@ -9,7 +9,7 @@
       <div class="col-md-3"></div>
       <div class="col-md-9">
         <h1>Events</h1>
-        <p>Stay updated on the trade shows, conferences, and industry events where Mesprosoft will be present.</p>
+        <p>Transformation Express by SAP: Powering a Digital India.</p>
       </div>
     </div>
 
@@ -27,7 +27,7 @@
             <img class="mb-8" src="{{ asset('img/new_design_img/event8.jpg') }}" width="100%" alt="">
           </a>
           <!-- <p>Mesprosoft Introduced A New Pay Per Ticket Model For Its Customers...</p> -->
-          <!-- <a href="{{ route('eventAndNews.eventDetail') }}" target="_blank" class="btn btn-primary btn-sm">Read More</a> -->
+          <a href="{{ route('eventAndNews.eventDetail') }}" target="_blank" class="btn btn-primary btn-sm">Explore More</a>
         </div>
 
       </div>

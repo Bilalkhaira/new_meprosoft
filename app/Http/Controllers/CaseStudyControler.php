@@ -10,11 +10,11 @@ class CaseStudyControler extends Controller
 {
     public function foodIndustry()
     {
-        $menu_id = NavMenu::where('name', 'Food Industry')->first('id');
+        // $menu_id = NavMenu::where('name', 'Food Industry')->first('id');
 
-        $data = MenuPagesData::with('cards')->where('menu_id', $menu_id->id)->first();
+        // $data = MenuPagesData::with('cards')->where('menu_id', $menu_id->id)->first();
 
-        return view('pages.caseStudy.foodIndustry', ['data' => $data]);
+        return view('pages.caseStudy.foodIndustry');
     }
 
     public function machineToolIndustry()

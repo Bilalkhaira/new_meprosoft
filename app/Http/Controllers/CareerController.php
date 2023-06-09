@@ -10,10 +10,10 @@ class CareerController extends Controller
 {
     public function index()
     {
-        $menu_id = NavMenu::where('name', 'Career')->first('id');
+        // $menu_id = NavMenu::where('name', 'Career')->first('id');
 
-        $data = MenuPagesData::with('cards')->where('menu_id', $menu_id->id)->first();
+        // $data = MenuPagesData::with('cards')->where('menu_id', $menu_id->id)->first();
 
-        return view('pages.careers.index', ['data' => $data]);
+        return view('pages.careers.index');
     }
 }

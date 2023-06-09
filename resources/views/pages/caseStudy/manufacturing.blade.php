@@ -39,7 +39,9 @@
         Stock products</p>
       <ul class="case_study_outer_list">
         <li>
-          <p><i class="fa fa-circle"></i> Challenges faced:</p>
+          <p>
+            <!-- <i class="fa fa-circle"></i> -->
+           Challenges faced:</p>
           <ul class="">
             <li>High level of complex manufacturing</li>
             <li>Poor visibility of inventory and controls there off.</li>
@@ -49,13 +51,17 @@
           </ul>
         </li>
         <li>
-          <p><i class="fa fa-circle"></i> Modules Implemented </p>
+          <p>
+            <!-- <i class="fa fa-circle"></i> -->
+           Modules Implemented </p>
           <ul class="case_study_inner_list">
             <li>FI/CO,MM,PP,QM,PP,PS BOBJ,FIORI.</li>
           </ul>
         </li>
         <li>
-          <p><i class="fa fa-circle"></i> Solution Highlights </p>
+          <p>
+            <!-- <i class="fa fa-circle"></i> -->
+           Solution Highlights </p>
           <ul class="">
             <li>Electronic KANBAN</li>
             <li>Streamline from process from Planning to Delivery</li>

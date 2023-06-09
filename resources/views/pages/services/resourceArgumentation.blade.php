@@ -17,7 +17,7 @@
       <div class="col-md-3"></div>
       <div class="col-md-9">
         <h1>Resource Augmentation </h1>
-        <p>India is in growth path and so are all of our customers. Often companies face stiff challenges when transitioning from a Pvt Ltd company to LTD company and the compliance requirements for preparation for IPO could be very much challenging.</p>
+        <p>Mesprosoft can make a significant and positive difference to your recruiting experience through honesty, good communication and expertise.</p>
       </div>
     </div>
   </div>

@@ -105,11 +105,9 @@
                 <h1 style="margin-top: 100px;">Corporate Offices</h1>
                 <div class="row gy-10 gx-lg-8 gx-xl-12">
 
-                    @if(!empty($data->cards[0]))
-                    @foreach($data->cards as $key => $val)
                     <div class="col-lg-4">
                         <div>
-                            <h3>{{ $val->heading ?? '' }}</h3>
+                            <h3>Bangalore</h3>
                         </div>
                         <div class="d-flex flex-row">
                             <div>
@@ -117,7 +115,7 @@
                             </div>
                             <div>
                                 <h5 class="mb-1">Address</h5>
-                                <address>{{ (json_decode($val->explanation))->address ?? ''}}</address>
+                                <address>Mesprosoft Pvt. Ltd. <br> 4th Floor, AEQUS Towers, #55, Mahadevapura Post, Whitefield Main Road, Bangalore- 560048</address>
                             </div>
                         </div>
                         <div class="d-flex flex-row">
@@ -127,9 +125,7 @@
                             </div>
                             <div>
                                 <h5 class="mb-1">Phone</h5>
-                                @foreach((json_decode($val->explanation))->phone as $phone)
-                                <p>{{ $phone }}</p>
-                                @endforeach
+                                <p>919110639340</p>
                             </div>
                         </div>
                         <div class="d-flex flex-row">
@@ -138,17 +134,184 @@
                             </div>
                             <div>
                                 <h5 class="mb-1">E-mail</h5>
-                                @foreach((json_decode($val->explanation))->email as $email)
-                                <p>{{ $email }}</p>
-                                @endforeach
+                               <p>sales@mesprosoft.com</p>
+                               <p>info@mesprosoft.com</p>
                             </div>
                         </div>
                     </div>
-                    @endforeach
-                    @endif
                     <div class="col-lg-4">
-
+                        <div>
+                            <h3>Mumbai</h3>
+                        </div>
+                        <div class="d-flex flex-row">
+                            <div>
+                                <div class="icon text-primary fs-28 me-4 mt-n1"> <i class="uil uil-location-pin-alt"></i> </div>
+                            </div>
+                            <div>
+                                <h5 class="mb-1">Address</h5>
+                                <address>Mesprosoft Pvt. Ltd. <br> (Kintan Systech Pvt. Ltd.) 201, Kalpataru Plaza, Chincholi Bunder Road, Malad West, Mumbai 400 064.</address>
+                            </div>
+                        </div>
+                        <div class="d-flex flex-row">
+                            <div>
+                                <div class="icon text-primary fs-28 me-4 mt-n1"> <i class="uil uil-phone-volume"></i>
+                                </div>
+                            </div>
+                            <div>
+                                <h5 class="mb-1">Phone</h5>
+                                <p></p>
+                            </div>
+                        </div>
+                        <div class="d-flex flex-row">
+                            <div>
+                                <div class="icon text-primary fs-28 me-4 mt-n1"> <i class="uil uil-envelope"></i> </div>
+                            </div>
+                            <div>
+                                <h5 class="mb-1">E-mail</h5>
+                                <p>sales@mesprosoft.com</p>
+                                <p>pinfo@mesprosoft.com</p>
+                            </div>
+                        </div>
                     </div>
+
+                    <div class="col-lg-4">
+                        <div>
+                            <h3>Pune</h3>
+                        </div>
+                        <div class="d-flex flex-row">
+                            <div>
+                                <div class="icon text-primary fs-28 me-4 mt-n1"> <i class="uil uil-location-pin-alt"></i> </div>
+                            </div>
+                            <div>
+                                <h5 class="mb-1">Address</h5>
+                                <address>Mesprosoft Pvt. Ltd. <br>(Hitech Infotech Services) 13, Blossoms,Third Floor, Brahma Chambers,Tilak Road, Sadashiv Peth, Pune – 411030</address>
+                            </div>
+                        </div>
+                        <div class="d-flex flex-row">
+                            <div>
+                                <div class="icon text-primary fs-28 me-4 mt-n1"> <i class="uil uil-phone-volume"></i>
+                                </div>
+                            </div>
+                            <div>
+                                <h5 class="mb-1">Phone</h5>
+                                <p>912024444409</p>
+                            </div>
+                        </div>
+                        <div class="d-flex flex-row">
+                            <div>
+                                <div class="icon text-primary fs-28 me-4 mt-n1"> <i class="uil uil-envelope"></i> </div>
+                            </div>
+                            <div>
+                                <h5 class="mb-1">E-mail</h5>
+                                <p>sales@mesprosoft.com</p>
+                                <p>info@mesprosoft.com</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4">
+                        <div>
+                            <h3>US</h3>
+                        </div>
+                        <div class="d-flex flex-row">
+                            <div>
+                                <div class="icon text-primary fs-28 me-4 mt-n1"> <i class="uil uil-location-pin-alt"></i> </div>
+                            </div>
+                            <div>
+                                <h5 class="mb-1">Address</h5>
+                                <address>Mesprosoft LLC <br> 2433 FM Road 1092, Missouri City, Texas – 77459 United States.</address>
+                            </div>
+                        </div>
+                        <div class="d-flex flex-row">
+                            <div>
+                                <div class="icon text-primary fs-28 me-4 mt-n1"> <i class="uil uil-phone-volume"></i>
+                                </div>
+                            </div>
+                            <div>
+                                <h5 class="mb-1">Phone</h5>
+                                <p>+1 214 281 8859</p>
+                                <p>12486132392</p>
+                            </div>
+                        </div>
+                        <div class="d-flex flex-row">
+                            <div>
+                                <div class="icon text-primary fs-28 me-4 mt-n1"> <i class="uil uil-envelope"></i> </div>
+                            </div>
+                            <div>
+                                <h5 class="mb-1">E-mail</h5>
+                                <p>sales.us@mesprosoft.com</p>
+                                <p>info.us@mesprosoft.com</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4">
+                        <div>
+                            <h3>Qatar</h3>
+                        </div>
+                        <div class="d-flex flex-row">
+                            <div>
+                                <div class="icon text-primary fs-28 me-4 mt-n1"> <i class="uil uil-location-pin-alt"></i> </div>
+                            </div>
+                            <div>
+                                <h5 class="mb-1">Address</h5>
+                                <address>Mesprosoft Qatar <br> WLL No. 21, 6th Floor, Doha Administration Tower, Grand Hamad Avenue, Bank Street, Doha, Qatar.</address>
+                            </div>
+                        </div>
+                        <div class="d-flex flex-row">
+                            <div>
+                                <div class="icon text-primary fs-28 me-4 mt-n1"> <i class="uil uil-phone-volume"></i>
+                                </div>
+                            </div>
+                            <div>
+                                <h5 class="mb-1">Phone</h5>
+                                <p>+ 974 77438545</p>
+                            </div>
+                        </div>
+                        <div class="d-flex flex-row">
+                            <div>
+                                <div class="icon text-primary fs-28 me-4 mt-n1"> <i class="uil uil-envelope"></i> </div>
+                            </div>
+                            <div>
+                                <h5 class="mb-1">E-mail</h5>
+                                <p>sales.qatar@mesprosoft.com</p>
+                                <p>info.qatar@mesprosoft.com</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4">
+                        <div>
+                            <h3>Registered Office</h3>
+                        </div>
+                        <div class="d-flex flex-row">
+                            <div>
+                                <div class="icon text-primary fs-28 me-4 mt-n1"> <i class="uil uil-location-pin-alt"></i> </div>
+                            </div>
+                            <div>
+                                <h5 class="mb-1">Address</h5>
+                                <address>Mesprosoft Pvt. Ltd. <br> Anandhashram PO Kasaragod dist, Kerala, 671531</address>
+                            </div>
+                        </div>
+                        <div class="d-flex flex-row">
+                            <div>
+                                <div class="icon text-primary fs-28 me-4 mt-n1"> <i class="uil uil-phone-volume"></i>
+                                </div>
+                            </div>
+                            <div>
+                                <h5 class="mb-1">Phone</h5>
+                            </div>
+                        </div>
+                        <div class="d-flex flex-row">
+                            <div>
+                                <div class="icon text-primary fs-28 me-4 mt-n1"> <i class="uil uil-envelope"></i> </div>
+                            </div>
+                            <div>
+                                <h5 class="mb-1">E-mail</h5>
+                            </div>
+                        </div>
+                    </div>
+                    
                 </div>
             </div>
         </div>

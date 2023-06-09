@@ -55,7 +55,9 @@
         FI/CO, Treasury & Interfaces</p>
       <ul class="case_study_outer_list">
         <li>
-          <p><i class="fa fa-circle"></i>Delivered Features to Customers</p>
+          <p>
+            <!-- <i class="fa fa-circle"></i> -->
+          Delivered Features to Customers</p>
           <ul class="">
             <li>Fully Legal compliant Financial
               Management system in compliance with

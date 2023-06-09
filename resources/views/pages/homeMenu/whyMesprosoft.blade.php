@@ -17,13 +17,13 @@
 <div class="container">
   <div class="row">
     <div class="col-md-12 text-center">
-      <p>We differentiate ourselves by ensuring that we follow a strict regimen of not deviating from our core value of value addition to the customer.</p>
+      <p>Promises Delivered!  Driven by Passion, nurtured by Trust, we have zero failures - with us you are in trusted hands, our domain expertise add value to your business.</p>
     </div>
   </div>
   <div class="row home_menu_border">
     <div class="col-md-12 text-center">
       <h1>Core Values</h1>
-      <p>We differentiate ourselves by ensuring that we follow a strict regimen of not deviating from our core value of value addition to the customer. Had always been honest in our approach and delivered according to the expectations.</p>
+      <p>We differentiate ourselves by ensuring that we follow a strict regimen of not deviating from our core value of value addition to the customer. Had always been honest in our approach and delivered results.</p>
       <img src="{{ asset('img/new_design_img/why1.png') }}" width="80%" alt="">
     </div>
     
@@ -73,6 +73,16 @@
       <ul>
         <li>Painless FDA Audits – without any special preparations</li>
         <li>No advance Batch Management Record preparations</li>
+      </ul>
+    </div>
+
+    <div class="col-md-12 why_mesproft_ul"> 
+      <p>Using Mesprosoft’s Mobile Warehouse Management</p>
+      <ul>
+        <li>Supply chain Automation with Mobile Handheld devices</li>
+        <ul>
+          <li>Automating Inventory movement across supply chain - realtime</li>
+        </ul>
       </ul>
     </div>
   </div>

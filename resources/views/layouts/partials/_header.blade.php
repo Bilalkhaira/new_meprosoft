@@ -3,7 +3,7 @@
         <div class="container-fluid flex-lg-row flex-nowrap align-items-center">
             <div class="w-100">
                 <a href="{{ route('home') }}">
-                    <img style="width: 170px !important; margin-top: -10px !important" src="{{ asset('img/new_logo.png') }}" srcset="{{ asset('img/new_logo.png') }}" alt="" />
+                    <img style="width: 170px !important; margin-top: -10px !important" src="{{ asset('img/mesprologo.jpg') }}" srcset="{{ asset('img/mesprologo.jpg') }}" alt="" />
                 </a>
             </div>
             <div class="navbar-collapse offcanvas offcanvas-nav offcanvas-start">
@@ -20,7 +20,7 @@
                                 <div class="row">
                                     <div class="col-md-12 text-center">
                                         <h3 class="display-7 mb-5">HOME</h3>
-                                        <p>Mesprosoft, a leader in business process automation, aims to improve all corporate activities.</p>
+                                        <p>Mesprosoft, a leader in business process automation, aims to improve all business activities.</p>
                                     </div>
                                 </div>
                                 <div class="row">
@@ -51,7 +51,7 @@
                                 <div class="row">
                                     <div class="col-md-12 text-center">
                                         <h3 class="display-7 mb-5">SERVICES</h3>
-                                        <p>Trust our dedicated support team to provide ongoing maintenance and assistance, ensuring your systems run smoothly and efficiently.</p>
+                                        <p>Trust our dedicated team to provide ongoing maintenance and assistance, ensuring your systems run smoothly and efficiently.</p>
                                     </div>
                                 </div>
                                 <div class="row">
@@ -101,7 +101,7 @@
                                 <div class="row">
                                     <div class="col-md-12 text-center">
                                         <h3 class="display-7 mb-5">PRODUCTS & SOLUTIONS</h3>
-                                        <p>Gain control and optimize your supply chain with our comprehensive solutions.</p>
+                                        <p>Efficiency, Integration, and Growth: Harnessing the Power of Our Product and Solutions.</p>
                                     </div>
                                 </div>
                                 <div class="row">
@@ -187,7 +187,7 @@
                                 <div class="row">
                                     <div class="col-md-12 text-center">
                                         <h3 class="display-7 mb-5">CASE STUDIES</h3>
-                                        <p>Discover how Mesprosoft partnered with a leading manufacturing company to optimize their production processes.</p>
+                                        <p>From Challenges to Solutions: Inspiring Case Studies from Our Portfolio.</p>
                                     </div>
                                 </div>
                                 <div class="row">
@@ -246,7 +246,7 @@
                                     </div>
                                     <div class="col-md-4">
                                         <img src="{{ asset('img/new_design_img/header.png') }}" width="15px" alt="">
-                                        <a href="{{ route('caseStudy.UTILITIESIndustries') }}">UTILITIES Industries</a>
+                                        <a href="{{ route('caseStudy.UTILITIESIndustries') }}">Utilities Industries</a>
                                     </div>
                                 </div>
                             </div>
@@ -257,8 +257,8 @@
                             <div class="dropdown-menu dropdown-lg" id="menu">
                                 <div class="row">
                                     <div class="col-md-12 text-center">
-                                        <h3 class="display-7 mb-5">Event & News</h3>
-                                        <p>Explore Mesprosoft's thought leadership articles, whitepapers, and industry insights.</p>
+                                        <h3 class="display-7 mb-5">NEWS & EVENTS</h3>
+                                        <p>Stay updated on the trade shows, conferences, and industry events where Mesprosoft will be present.</p>
                                     </div>
                                 </div>
                                 <div class="row">

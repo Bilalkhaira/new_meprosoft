@@ -58,7 +58,9 @@
         PP,MM,SD,FI/CO,PM,PS,BOBJ</p>
       <ul class="case_study_outer_list">
         <li>
-          <p><i class="fa fa-circle"></i>Delivered Features to Customers</p>
+          <p>
+            <!-- <i class="fa fa-circle"></i> -->
+          Delivered Features to Customers</p>
           <ul class="case_study_inner_list">
             <li>Multilevel Product Feature selections, Simulation in designs (with Optional and
               Mandatory specs)</li>

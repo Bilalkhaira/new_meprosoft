@@ -7,6 +7,16 @@
   li{
     text-align: justify;
   }
+  .img_btn{
+    background-color: #dee3e6;
+    padding: 10px;
+    text-align: center;
+    width: 99.5%;
+    font-size: 20px;
+  }
+  .img_btn a{
+    color: black;
+  }
 </style>
 @endsection
 @section('content')
@@ -26,7 +36,10 @@
 <div class="container">
   <div class="row paperLess_row">
     <div class="col-md-6">
-      <img src="{{ asset('img/new_design_img/11.jpeg') }}" width="100%" alt="">
+      <img src="{{ asset('img/new_design_img/new_ipo.png') }}" width="100%" alt="">
+      <div class="img_btn">
+        <a href="{{ route('contactUs') }}">Contact us for more….</a>
+      </div>
     </div>
     <div class="col-md-6">
     <h3 class="display-7 mb-5">IPO Compliance</h3>

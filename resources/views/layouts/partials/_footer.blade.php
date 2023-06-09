@@ -3,7 +3,7 @@
             <div class="col-md-3">
                 <div class="row">
                     <div class="col-md-12">
-                        <a href="#"><img src="{{ asset('img/new_logo.png') }}" alt="" width="70%"></a>
+                        <a href="#"><img src="{{ asset('img/logo-dark.png') }}" alt="" width="70%"></a>
                     </div>
                 </div>
                 <!-- <div class="row">
@@ -30,9 +30,9 @@
                 <h5 style="margin-left: 40px;">Quick Links</h5>
                 <ul>
                     <li><a href="{{ route('home.about') }}">Home</a></li>
-                    <li><a href="{{ route('services.businessConsulting') }}">Our Services</a></li>
+                    <li><a href="{{ route('services.businessConsulting') }}">Services</a></li>
                     <li><a href="{{ route('productAndSolution.dispatchAutomation') }}">Products & Solutions</a></li>
-                    <li><a href="{{ route('caseStudy.foodIndustry') }}">Case Study</a></li>
+                    <li><a href="{{ route('caseStudy.foodIndustry') }}">Case Studies</a></li>
                     <li><a href="{{ route('eventAndNews.index') }}">News & Events</a></li>
                     <li><a href="{{ route('careers.index') }}">Careers</a></li>
                     <li><a href="{{ route('contactUs') }}">Contact Us</a></li>

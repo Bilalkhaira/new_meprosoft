@@ -17,7 +17,7 @@
 <div class="container">
   <div class="row">
     <div class="col-md-12 text-center">
-      <p>We value the individual, uphold the right to express disagreement, and respect the time and efforts of others. Nurture fairness, trust and respect.</p>
+      <p>“Integrity above Business, Dignity above positions, Nurture fairness, trust and respect”</p>
     </div>
   </div>
   <div class="row home_menu_border">

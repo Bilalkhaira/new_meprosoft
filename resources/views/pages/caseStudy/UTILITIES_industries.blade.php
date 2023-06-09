@@ -37,7 +37,9 @@
         and provides to National Grid</p>
       <ul class="case_study_outer_list">
         <li>
-          <p><i class="fa fa-circle"></i> Challenges faced:</p>
+          <p>
+            <!-- <i class="fa fa-circle"></i> -->
+           Challenges faced:</p>
           <ul class="">
             <li>Plant Maintenance</li>
             <li>Billing Generations</li>
@@ -45,13 +47,17 @@
           </ul>
         </li>
         <li>
-          <p><i class="fa fa-circle"></i> Modules </p>
+          <p>
+            <!-- <i class="fa fa-circle"></i> -->
+           Modules </p>
           <ul class="case_study_inner_list">
             <li>FI/CO,PM,MM,PS,SD</li>
           </ul>
         </li>
         <li>
-          <p><i class="fa fa-circle"></i> Solution Highlights </p>
+          <p>
+            <!-- <i class="fa fa-circle"></i> -->
+           Solution Highlights </p>
           <ul class="">
             <li>System Driven Maintenance plan, Preventive and Breakdown
               maintenance</li>

@@ -37,7 +37,9 @@
         World leader like Boeing, Airbus and Bombardier</p>
       <ul class="case_study_outer_list">
         <li>
-          <p><i class="fa fa-circle"></i> Challenges faced:</p>
+          <p>
+            <!-- <i class="fa fa-circle"></i>  -->
+            Challenges faced:</p>
           <ul class="">
             <li>Configurations control</li>
             <li>Project Control with design and development</li>
@@ -47,13 +49,17 @@
           </ul>
         </li>
         <li>
-          <p><i class="fa fa-circle"></i> Modules </p>
+          <p>
+            <!-- <i class="fa fa-circle"></i>  -->
+            Modules </p>
           <ul class="case_study_inner_list">
             <li>FI/CO,MM,PP,QM,PP,BOBJ,FIORI, Interfaces</li>
           </ul>
         </li>
         <li>
-          <p><i class="fa fa-circle"></i> Solution Highlights </p>
+          <p>
+            <!-- <i class="fa fa-circle"></i>  -->
+            Solution Highlights </p>
           <ul class="">
             <li>Project System with interface uploads</li>
             <li>Budget controls</li>

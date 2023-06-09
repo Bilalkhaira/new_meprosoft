@@ -139,7 +139,9 @@
 .case_study_outer_list p {
     padding: 10px 5px;
     background-color: #fbb217;
-    color: white;
+    color: black;
+    padding-left: 20px;
+    font-weight: bold;
 }
 
 .case_study_outer_list p i {

@@ -10,37 +10,37 @@ class HomeMenuController extends Controller
 {
     public function aboutUs()
     {
-        $menu_id = NavMenu::where('name', 'About Mesprosoft')->first('id');
+        // $menu_id = NavMenu::where('name', 'About Mesprosoft')->first('id');
 
-        $data = MenuPagesData::with('cards')->where('menu_id', $menu_id->id)->first();
+        // $data = MenuPagesData::with('cards')->where('menu_id', $menu_id->id)->first();
 
-        return view('pages.homeMenu.about', ['data' => $data]);
+        return view('pages.homeMenu.about');
     }
 
     public function managementTeam()
     {
-        $menu_id = NavMenu::where('name', 'Management Team')->first('id');
+        // $menu_id = NavMenu::where('name', 'Management Team')->first('id');
 
-        $data = MenuPagesData::with('cards')->where('menu_id', $menu_id->id)->first();
+        // $data = MenuPagesData::with('cards')->where('menu_id', $menu_id->id)->first();
 
-        return view('pages.homeMenu.managementTeam', ['data' => $data]);
+        return view('pages.homeMenu.managementTeam');
     }
 
     public function coreValues()
     {
-        $menu_id = NavMenu::where('name', 'Core Values')->first('id');
+        // $menu_id = NavMenu::where('name', 'Core Values')->first('id');
 
-        $data = MenuPagesData::with('cards')->where('menu_id', $menu_id->id)->first();
+        // $data = MenuPagesData::with('cards')->where('menu_id', $menu_id->id)->first();
 
-        return view('pages.homeMenu.coreValues', ['data' => $data]);
+        return view('pages.homeMenu.coreValues');
     }
 
     public function whyMesprosoft()
     {
-        $menu_id = NavMenu::where('name', 'Why Mesprosoft')->first('id');
+        // $menu_id = NavMenu::where('name', 'Why Mesprosoft')->first('id');
 
-        $data = MenuPagesData::with('cards')->where('menu_id', $menu_id->id)->first();
+        // $data = MenuPagesData::with('cards')->where('menu_id', $menu_id->id)->first();
 
-        return view('pages.homeMenu.whyMesprosoft', ['data' => $data]);
+        return view('pages.homeMenu.whyMesprosoft');
     }
 }

@@ -17,7 +17,7 @@
       <div class="col-md-3"></div>
       <div class="col-md-9">
         <h1>Application Support</h1>
-        <p>Mesprosoft provides comprehensive application support services to ensure the smooth functioning and uninterrupted operation of software applications utilised by our clients.</p>
+        <p>Mesprosoft provides comprehensive application support services to ensure the smooth functioning and uninterrupted operation of SAP applications utilized by our clients.</p>
       </div>
     </div>
   </div>
@@ -29,9 +29,10 @@
       <img src="{{ asset('img/new_design_img/53.png') }}" width="100%" alt="">
     </div>
     <div class="col-md-6">
-      <p>Mesprosoft provides comprehensive application support services to ensure the smooth functioning and uninterrupted operation of software applications utilised by our clients. We understand the criticality of reliable application support in maximising business productivity and minimising downtime. Our team of skilled professionals is dedicated to resolving issues promptly, providing technical expertise, and offering continuous support to meet our client's needs.</p>
+      <p>Mesprosoft provides comprehensive application support services to ensure the smooth functioning and uninterrupted operation of SAP applications utilized by our clients. We understand the criticality of reliable application support in maximising business productivity and minimising downtime. Our team of skilled professionals is dedicated to resolving issues promptly, providing technical expertise, and offering continuous support to meet our client's needs.</p>
     <ul>
-      <li><b>Help Desk Support:</b> Our help desk support services act as a single point of contact for clients to report any issues, queries, or concerns related to their software applications. Our support team is available to assist users with troubleshooting, resolving technical issues, and providing guidance on application usage.</li>
+      <li><b>Help Desk Support:</b> Get in touch with us right now to find out more about how Mesprosoft's SAP application  support services can enhance the dependability and performance of your SAP system while delivering a superior user experience.
+</li>
       <li><b>Bug Fixing and Issue Resolution: </b>Software applications may encounter bugs or issues that hinder their functionality. Our application support team diligently investigates reported problems, diagnoses root causes, and implements effective solutions. We systematically identify and resolve bugs, ensuring that the applications operate smoothly and deliver the intended functionalities.</li>
       <li><b>Application Maintenance and Upgrades:</b> Regular maintenance and upgrades are essential to ensure the long-term performance and reliability of software applications. Mesprosoft offers proactive application maintenance services, including performance monitoring, error tracking, and optimisation. We also assist clients in planning and implementing software upgrades, incorporating new features, enhancements, and security patches to keep applications up-to-date and secure.</li>
     </ul>

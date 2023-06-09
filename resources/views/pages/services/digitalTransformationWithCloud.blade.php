@@ -52,7 +52,7 @@
           <img src="{{ asset('img/new_design_img/icons/283753_HEM_R_purple.png') }}" width="40%" alt="">
         </div>
         <div class="col-md-9">
-          <h3 class="display-7 mb-5">Transform Your Business, Delight Your Customers</h3>
+          <h3 class="display-7 mb-5">Run with industry best practices</h3>
         
         </div>
       </div>
@@ -61,7 +61,7 @@
           <img src="{{ asset('img/new_design_img/icons/285462_Inspire-lightbulb_R_neg_orange.png') }}" width="40%" alt="">
         </div>
         <div class="col-md-9">
-          <h3 class="display-7 mb-5">Maximize Business Performance</h3>
+          <h3 class="display-7 mb-5">Build your own breakthroughs</h3>
           
         </div>
       </div>
@@ -70,7 +70,17 @@
           <img src="{{ asset('img/new_design_img/icons/285462_Inspire-lightbulb_R_orange.png') }}" width="40%" alt="">
         </div>
         <div class="col-md-9">
-          <h3 class="display-7 mb-5">Mesprosoft Recommends SAP S/4HANA Cloud</h3>
+          <h3 class="display-7 mb-5">Go live with confidence </h3>
+          
+        </div>
+      </div>
+
+      <div class="row news_row_margin">
+        <div class="col-md-3 text-right">
+          <img src="{{ asset('img/new_design_img/icons/288005_iLM_v3_R_orange.png') }}" width="40%" alt="">
+        </div>
+        <div class="col-md-9">
+          <h3 class="display-7 mb-5">Grow without limits </h3>
           
         </div>
       </div>

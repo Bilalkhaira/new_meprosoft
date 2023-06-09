@@ -17,7 +17,7 @@
       <div class="col-md-3"></div>
       <div class="col-md-9">
         <h1>PLC/MES/Weighbridge Integration</h1>
-        <p>India is in growth path and so are all of our customers. Often companies face stiff challenges when transitioning from a Pvt Ltd company to LTD company and the compliance requirements for preparation for IPO could be very much challenging.</p>
+        <p>In a complete production environment it is seldom enough to have a standalone system, connected and Automated system brings high level of consistency in Quality and traceability of the products.</p>
       </div>
     </div>
   </div>

@@ -39,7 +39,9 @@
         overseas brands</p>
       <ul class="case_study_outer_list">
         <li>
-          <p><i class="fa fa-circle"></i> Challenges faced:</p>
+          <p>
+            <!-- <i class="fa fa-circle"></i> -->
+             Challenges faced:</p>
           <ul class="">
             <li>High level of complex manufacturing</li>
             <li>High requirement of traceability due to international
@@ -49,13 +51,17 @@
           </ul>
         </li>
         <li>
-          <p><i class="fa fa-circle"></i> Modules </p>
+          <p>
+            <!-- <i class="fa fa-circle"></i> -->
+             Modules </p>
           <ul class="case_study_inner_list">
             <li>FI/CO,MM,PP,QM,PP,PM,BOBJ,FIORI, EXIM</li>
           </ul>
         </li>
         <li>
-          <p><i class="fa fa-circle"></i> Solution Highlights </p>
+          <p>
+            <!-- <i class="fa fa-circle"></i> -->
+             Solution Highlights </p>
           <ul class="">
             <li>Streamline from process from Planning to Delivery with huge no
               of Subcontracted orders & Processes</li>

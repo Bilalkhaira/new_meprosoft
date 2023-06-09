@@ -45,10 +45,10 @@
   </div>
   <div class="row paperLess_form_sec">
     <div class="col-md-12 text-center mb-6">
-      <h1><b>Unlocking Insight Features:</b></h1>
+      <h1><b>Key KPI definition and Process improvements:</b></h1>
     </div>
     <div class="col-md-8 point_col">
-      <div class="row">
+      <!-- <div class="row">
         <div class="col-md-3 text-right">
           <img src="{{ asset('img/new_design_img/icons/285961_Circles_R_neg_orange.png') }}" width="40%" alt="">
         </div>
@@ -74,6 +74,25 @@
           <h3 class="display-7 mb-5">Mesprosoft Recommends SAP S/4HANA Cloud</h3>
 
         </div>
+      </div> -->
+      <div class="row news_row_margin">
+        <div class="col-md-3"></div>
+        <div class="col-md-9">
+          <ul>
+            <li>Working Capital Reduction</li>
+            <li>Local GAAP Compliance</li>
+            <li>Regulatory Compliance (Pharma, Food)</li>
+            <li>IS Standard</li>
+            <li>Audit Compliance</li>
+            <li>IPO Compliance</li>
+            <li>SoA</li>
+            <li>Services Offered  for SAP Customers</li>
+            <li>Reengineering</li>
+            <li>IOT Integration</li>
+            <li>Industry 4.0 </li>
+          </ul>
+        </div>
+       
       </div>
 
     </div>

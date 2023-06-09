@@ -17,7 +17,7 @@
 <div class="container">
   <div class="row">
     <div class="col-md-12 text-center">
-      <p>We aim to improve the Business processes of our customers by building good metrics and processes  using the world’s best software.</p>
+      <p>“Mesprosoft, an SAP Gold Partner, Providing SAP Consulting Services globally over a decade, improving efficiency in our customers’ business process and driving growth”</p>
     </div>
   </div>
   <div class="row home_menu_border">

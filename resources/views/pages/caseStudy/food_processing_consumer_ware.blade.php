@@ -58,7 +58,9 @@
 
       <ul class="case_study_outer_list">
         <li>
-          <p><i class="fa fa-circle"></i> Delivered Features to Customers</p>
+          <p>
+            <!-- <i class="fa fa-circle"></i> -->
+           Delivered Features to Customers</p>
           <ul class="case_study_inner_list">
             <li>Barcode Automated Supply chain and Operations
               System driven Forecasting and planning

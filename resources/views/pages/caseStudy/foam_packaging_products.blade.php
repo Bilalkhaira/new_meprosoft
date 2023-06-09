@@ -37,7 +37,9 @@
         plastic, EVA foam and packaging products</p>
       <ul class="case_study_outer_list">
         <li>
-          <p><i class="fa fa-circle"></i> Challenges faced:</p>
+          <p>
+            <!-- <i class="fa fa-circle"></i>  -->
+            Challenges faced:</p>
           <ul class="">
             <li>Planning & Execution not well aligned</li>
             <li>Multiple plants & Process posed challenges</li>
@@ -49,13 +51,17 @@
           </ul>
         </li>
         <li>
-          <p><i class="fa fa-circle"></i> Modules </p>
+          <p>
+            <!-- <i class="fa fa-circle"></i>  -->
+            Modules </p>
           <ul class="case_study_inner_list">
             <li>FI/CO,MM,PP,QM,PP,BOBJ,FIORI, CONTAINER PLANNING</li>
           </ul>
         </li>
         <li>
-          <p><i class="fa fa-circle"></i> Solution Highlights </p>
+          <p>
+            <!-- <i class="fa fa-circle"></i>  -->
+            Solution Highlights </p>
           <ul class="">
             <li>Integrated Planning & Execution across plants</li>
             <li>Delivery management with container planning & tracking</li>

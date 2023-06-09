@@ -39,7 +39,9 @@
         equipment manufacturer.</p>
       <ul class="case_study_outer_list">
         <li>
-          <p><i class="fa fa-circle"></i> Challenges faced:</p>
+          <p>
+            <!-- <i class="fa fa-circle"></i> -->
+           Challenges faced:</p>
           <ul class="">
             <li>Existing ERP was not giving desired results</li>
             <li>Multi country multi state operations</li>
@@ -49,13 +51,17 @@
           </ul>
         </li>
         <li>
-          <p><i class="fa fa-circle"></i> Modules </p>
+          <p>
+            <!-- <i class="fa fa-circle"></i> -->
+           Modules </p>
           <ul class="case_study_inner_list">
             <li>FI/CO,MM,PP,QM,PP,BOBJ,FIORI, Interfaces</li>
           </ul>
         </li>
         <li>
-          <p><i class="fa fa-circle"></i> Solution Highlights </p>
+          <p>
+            <!-- <i class="fa fa-circle"></i> -->
+           Solution Highlights </p>
           <ul class="">
             <li>Interfaced data out put from production lines for Reporting</li>
             <li>Commodity – Last price based costing for each lots.</li>

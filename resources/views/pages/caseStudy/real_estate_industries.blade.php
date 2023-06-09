@@ -39,7 +39,9 @@
         their own construction</p>
       <ul class="case_study_outer_list">
         <li>
-          <p><i class="fa fa-circle"></i> Challenges faced:</p>
+          <p>
+            <!-- <i class="fa fa-circle"></i> -->
+           Challenges faced:</p>
           <ul class="">
             <li>Project Control</li>
             <li>Budget control</li>
@@ -47,14 +49,18 @@
           </ul>
         </li>
         <li>
-          <p><i class="fa fa-circle"></i> Modules </p>
+          <p>
+            <!-- <i class="fa fa-circle"></i> -->
+           Modules </p>
           <ul class="case_study_inner_list">
             <li>FI/CO, REFX,MM,PS,QM,PP,HCM, Success Factors, FIORI,
               Interfaces</li>
           </ul>
         </li>
         <li>
-          <p><i class="fa fa-circle"></i> Solution Highlights </p>
+          <p>
+            <!-- <i class="fa fa-circle"></i> -->
+           Solution Highlights </p>
           <ul class="">
             <li>Project System with MRP procurements</li>
             <li>Project schedule controls</li>

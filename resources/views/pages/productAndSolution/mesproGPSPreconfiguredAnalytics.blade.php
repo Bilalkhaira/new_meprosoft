@@ -17,7 +17,7 @@
       <div class="col-md-3"></div>
       <div class="col-md-9">
         <h1>Mespro GPS Preconfigured Analytics</h1>
-        <p>Location tracking is an on-demand facility in the transport and logistics industry. As the world is rushing towards smart solutions, so do Mesprosoft prebuilt templates, reports and dashboards (Mespro BOBJ – GPS), making vehicle tracking a matter of seconds.</p>
+        <p>The irony of the current times is that the Organizations have tons of data about themselves but unable to use them intelligently for their best results.</p>
       </div>
     </div>
   </div>
@@ -29,14 +29,14 @@
       <img src="{{ asset('img/new_design_img/35.jpeg') }}" width="100%" alt="">
     </div>
     <div class="col-md-6">
-      <p>Location tracking is an on-demand facility in the transport and logistics industry. As the world is rushing towards smart solutions, so do Mesprosoft prebuilt templates, reports and dashboards (Mespro BOBJ – GPS), making vehicle tracking a matter of seconds. "Data is the money", but it is even more valuable in the logistics industry. If you are also looking for a smart remote monitoring solution that keeps a track record of fleet services, Mespro GPS preconfigured analytics has come for your support. Using tech-enabled Key Performance Indicators (KPI), we make all good/bad metrics readily accessible to logistic firms.</p>
+      <p>The irony of the current times is that the Organizations have tons of data about themselves but unable to use them intelligently for their best results. Mesprosoft prebuilt templates reports and dashboards (Mespro BOBJ –GPS) allow you to quickly see thru this data by building strategic, tactical and operational data and provides valuable insights and your performance against industry best practice KPI’s which can be used for your management review inputs – Real-time, anywhere .</p>
       <p><b>KPI BASED ON</b></p>
       <ul>
-        <li>Human Capital Management.</li>
-        <li>Working Capitals.</li>
         <li>Revenue</li>
+        <li>Working Capitals</li>
         <li>Marketing</li>
         <li>Sales</li>
+        <li>Human Capital Managements</li>
       </ul>
     </div>
   </div>

@@ -50,7 +50,9 @@
         FI/CO, MM,PM,& Interfaces</p>
       <ul class="case_study_outer_list">
         <li>
-          <p><i class="fa fa-circle"></i>Delivered Features to Customers</p>
+          <p>
+            <!-- <i class="fa fa-circle"></i> -->
+          Delivered Features to Customers</p>
           <ul class="">
             <li>Financial Accounting with Full integrations
               to the front end systems, Electronic Bank
