@@ -19,9 +19,9 @@
 
 <div class="container career">
     <div class="row">
-        <div class="col-md-12 text-center">
-            <h1>We Are Looking A New <br> Fresh Talent <br> To Join Our Team</h1>
-            <p class="">We are hiring 50 Functional consultants as Associate consultants<br> SAP S/4 HANA, Training in SAP S/4 HANA will be provided, <br>candidate has to undertake an agreement on <br>staying back post training.</p>
+        <div class="col-md-12">
+            <h1>We Are Looking A New Fresh Talent To Join Our Team</h1>
+            <p>We are hiring 50 Functional consultants as Associate consultants SAP S/4 HANA, Training in SAP S/4 HANA will be provided, candidate has to undertake an agreement on staying back post training.</p>
         </div>
     </div>
 

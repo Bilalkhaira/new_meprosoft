@@ -39,34 +39,35 @@
         <li>Real-time consumptions that are not in accordance with the Standard BOM.</li>
         <li>Authorizations and Digital Signatures.</li>
       </ul>
+      <a href="{{ route('contactUs') }}"> Contact us today to learn more about how we can help you leverage the power of Mespro X-steps to transform your business.</a>
     </div>
   </div>
   <div class="row paperLess_form_sec">
-    <div class="col-md-12 text-center mb-6">
+    <div class="col-md-12 mb-6">
       <h1><b>Unlocking Insight Features:</b></h1>
     </div>
     <div class="col-md-7 point_col">
       <div class="row">
-        <div class="col-md-3 text-right">
-          <img src="{{ asset('img/new_design_img/icons/286390_Ammo_R_neg_orange.png') }}" width="40%" alt="">
+        <div class="col-md-2">
+          <img src="{{ asset('img/new_design_img/icons/286390_Ammo_R_neg_orange.png') }}" width="60%" alt="">
         </div>
-        <div class="col-md-9">
+        <div class="col-md-10">
           <h3 class="display-7 mb-5">Embrace the Power of Live Data</h3>
         </div>
       </div>
       <div class="row news_row_margin">
-        <div class="col-md-3 text-right">
-          <img src="{{ asset('img/new_design_img/icons/286243_US-Globe_R_orange.png') }}" width="40%" alt="">
+        <div class="col-md-2">
+          <img src="{{ asset('img/new_design_img/icons/286243_US-Globe_R_orange.png') }}" width="60%" alt="">
         </div>
-        <div class="col-md-9">
+        <div class="col-md-10">
           <h3 class="display-7 mb-5">Mespro Cockpit Enhances Process Manufacturing Reporting</h3>
         </div>
       </div>
       <div class="row news_row_margin">
-        <div class="col-md-3 text-right">
-          <img src="{{ asset('img/new_design_img/icons/286390_Ammo_R_orange.png') }}" width="40%" alt="">
+        <div class="col-md-2">
+          <img src="{{ asset('img/new_design_img/icons/286390_Ammo_R_orange.png') }}" width="60%" alt="">
         </div>
-        <div class="col-md-9">
+        <div class="col-md-10">
           <h3 class="display-7 mb-5">Data-Driven Production Excellence: Maximize Efficiency, Minimize Errors</h3>
         </div>
       </div>
@@ -74,7 +75,7 @@
     </div>
     <div class="col-md-5">
       <div class="paperLess_form_outer">
-      <iframe frameborder="0" style="height:500px;width:100%;border:none;" src='https://forms.zohopublic.in/mesprosoft/form/RequestADemo/formperma/sdZ_uTFMLGDUasTpWtNEac3QFJovqtFU95ZUJtUcY-4'></iframe>
+      <iframe frameborder="0" style="height:650px;width:100%;border:none;" src='https://forms.zohopublic.in/mesprosoft/form/RequestADemo/formperma/sdZ_uTFMLGDUasTpWtNEac3QFJovqtFU95ZUJtUcY-4'></iframe>
         <!-- <form action="/action_page.php">
           <h3 class="display-7 mb-5">Request A Demo!</h3>
           <div class="form-group">

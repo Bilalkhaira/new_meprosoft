@@ -29,7 +29,7 @@
 <div class="container">
   <div class="row case_study_sec">
     <div class="col-md-4">
-      <img src="{{ asset('img/new_design_img/58.png') }}" width="100%" alt="">
+      <img src="{{ asset('img/new_design_img/58.webp') }}" width="100%" alt="">
     </div>
     <div class="col-md-8">
       <h3 class="display-4 mb-5">Foam Packaging Products</h3>

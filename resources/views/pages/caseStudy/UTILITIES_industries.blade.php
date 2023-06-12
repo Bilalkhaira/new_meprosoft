@@ -17,7 +17,7 @@
     <div class="row">
       <div class="col-md-3"></div>
       <div class="col-md-9">
-        <h1>UTILITIES Industries</h1>
+        <h1>Utilities Industries</h1>
         <p>Our Customer is the Leading Private player in Power Generation
           and provides to National Grid</p>
       </div>
@@ -32,7 +32,7 @@
       <img src="{{ asset('img/new_design_img/62.png') }}" width="100%" alt="">
     </div>
     <div class="col-md-8">
-      <h3 class="display-4 mb-5">UTILITIES Industries</h3>
+      <h3 class="display-4 mb-5">Utilities Industries</h3>
       <p>Our Customer is the Leading Private player in Power Generation
         and provides to National Grid</p>
       <ul class="case_study_outer_list">

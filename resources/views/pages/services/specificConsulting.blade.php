@@ -45,11 +45,11 @@
     </div>
     <div class="col-md-12">
       <p>Mesprosoft's consulting services assist businesses to efficiently leverage the power of technology. Their knowledge assists organizations in staying ahead of the curve, adapting to industry developments, and maximizing their IT investments for long-term growth and success.</p>
-      <p>Contact us today to find out more about how Mesprosoft's specific consulting services may help your company reach its full potential and promote long-term growth.</p>
+      <p> <a href="{{ route('contactUs') }}">Contact us today to find out more about how Mesprosoft's specific consulting services may help your company reach its full potential and promote long-term growth.</a></p>
     </div>
   </div>
   <div class="row paperLess_form_sec">
-    <div class="col-md-12 text-center mb-6">
+    <div class="col-md-12 mb-6">
       <h1><b>Mesprosoft Offer a plethora of SAP consulting services like specific module implementation below are a few of those projects delivered:</b></h1>
     </div>
     <div class="col-md-7 point_col">
@@ -82,8 +82,7 @@
       </div> -->
 
       <div class="row news_row_margin">
-        <div class="col-md-3"></div>
-        <div class="col-md-9">
+        <div class="col-md-12">
           <ul>
             <li>Ecommerce Interface integration(Amazon, Flipkart)</li>
             <li>IFRS 16</li>
@@ -102,7 +101,7 @@
     </div>
     <div class="col-md-5">
       <div class="paperLess_form_outer">
-      <iframe frameborder="0" style="height:500px;width:100%;border:none;" src='https://forms.zohopublic.in/mesprosoft/form/RequestADemo/formperma/sdZ_uTFMLGDUasTpWtNEac3QFJovqtFU95ZUJtUcY-4'></iframe>
+      <iframe frameborder="0" style="height:650px;width:100%;border:none;" src='https://forms.zohopublic.in/mesprosoft/form/RequestADemo/formperma/sdZ_uTFMLGDUasTpWtNEac3QFJovqtFU95ZUJtUcY-4'></iframe>
         <!-- <form action="/action_page.php">
           <h3 class="display-7 mb-5">Request A Demo!</h3>
           <div class="form-group">

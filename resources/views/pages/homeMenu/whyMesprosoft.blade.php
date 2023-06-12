@@ -22,7 +22,7 @@
   </div>
   <div class="row home_menu_border">
     <div class="col-md-12 text-center">
-      <h1>Core Values</h1>
+      <h1>Why Mesprosoft</h1>
       <p>We differentiate ourselves by ensuring that we follow a strict regimen of not deviating from our core value of value addition to the customer. Had always been honest in our approach and delivered results.</p>
       <img src="{{ asset('img/new_design_img/why1.png') }}" width="80%" alt="">
     </div>

@@ -17,7 +17,7 @@
     <div class="row">
       <div class="col-md-3"></div>
       <div class="col-md-9">
-        <h1>Automotive Components</h1>
+      <h1>Automotive Components</h1>
         <p>OEM suppliers for all type of bearing with domestic and
           International customers as well as contract manufacturers for
           overseas brands</p>
@@ -41,7 +41,8 @@
         <li>
           <p>
             <!-- <i class="fa fa-circle"></i> -->
-             Challenges faced:</p>
+            Challenges faced:
+          </p>
           <ul class="">
             <li>High level of complex manufacturing</li>
             <li>High requirement of traceability due to international
@@ -53,7 +54,8 @@
         <li>
           <p>
             <!-- <i class="fa fa-circle"></i> -->
-             Modules </p>
+            Modules
+          </p>
           <ul class="case_study_inner_list">
             <li>FI/CO,MM,PP,QM,PP,PM,BOBJ,FIORI, EXIM</li>
           </ul>
@@ -61,7 +63,8 @@
         <li>
           <p>
             <!-- <i class="fa fa-circle"></i> -->
-             Solution Highlights </p>
+            Solution Highlights
+          </p>
           <ul class="">
             <li>Streamline from process from Planning to Delivery with huge no
               of Subcontracted orders & Processes</li>

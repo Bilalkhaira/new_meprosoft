@@ -32,35 +32,35 @@
     <div class="col-md-6">
       <h3 class="display-7 mb-5">TS 16949 Compliant KAPA</h3>
       <p>The ISO standard Technical Specification (TS) 16949 outlines specific requirements for manufacturers of automotive production and service parts. The standard is addressed predominantly for quality management system (QMS) development. If your company also wants to be TS 16949 compliant, Mesprosoft will leave no stone unturned in making it happen. We are gearing up companies to adapt fastest to the modern business dynamics by making them compliant with the respective ISO standards.</p>
-
+      <a href="{{ route('contactUs') }}"> Contact us today to learn more about how we can help you leverage the power of TS 16949 Compliant KAPA to transform your business.</a>
     </div>
   </div>
   <div class="row paperLess_form_sec">
-    <div class="col-md-12 text-center mb-6">
+    <div class="col-md-12 mb-6">
       <h1><b>Unlocking Insight Features:</b></h1>
     </div>
     <div class="col-md-7 point_col">
       <div class="row">
-        <div class="col-md-3 text-right">
-          <img src="{{ asset('img/new_design_img/icons/292349_Brake_Disk_R_orange.png') }}" width="40%" alt="">
+        <div class="col-md-2">
+          <img src="{{ asset('img/new_design_img/icons/292349_Brake_Disk_R_orange.png') }}" width="60%" alt="">
         </div>
-        <div class="col-md-9">
+        <div class="col-md-10">
           <h3 class="display-7 mb-5">Achieving Automotive Excellence</h3>
         </div>
       </div>
       <div class="row news_row_margin">
-        <div class="col-md-3 text-right">
-          <img src="{{ asset('img/new_design_img/icons/292525_Feedback_Check Mark_R_neg_orange.png') }}" width="40%" alt="">
+        <div class="col-md-2">
+          <img src="{{ asset('img/new_design_img/icons/283753_HEM_R_purple.png') }}" width="60%" alt="">
         </div>
-        <div class="col-md-9">
+        <div class="col-md-10">
           <h3 class="display-7 mb-5">Navigating Automotive Standards</h3>
         </div>
       </div>
       <div class="row news_row_margin">
-        <div class="col-md-3 text-right">
-          <img src="{{ asset('img/new_design_img/icons/292526_Feedback_Cross Mark_R_neg_purple.png') }}" width="40%" alt="">
+        <div class="col-md-2">
+          <img src="{{ asset('img/new_design_img/icons/288005_iLM_v3_R_orange.png') }}" width="60%" alt="">
         </div>
-        <div class="col-md-9">
+        <div class="col-md-10">
           <h3 class="display-7 mb-5">Uncompromising Standards, Superior Performance</h3>
         </div>
       </div>
@@ -68,7 +68,7 @@
     </div>
     <div class="col-md-5">
       <div class="paperLess_form_outer">
-      <iframe frameborder="0" style="height:500px;width:100%;border:none;" src='https://forms.zohopublic.in/mesprosoft/form/RequestADemo/formperma/sdZ_uTFMLGDUasTpWtNEac3QFJovqtFU95ZUJtUcY-4'></iframe>
+      <iframe frameborder="0" style="height:650px;width:100%;border:none;" src='https://forms.zohopublic.in/mesprosoft/form/RequestADemo/formperma/sdZ_uTFMLGDUasTpWtNEac3QFJovqtFU95ZUJtUcY-4'></iframe>
         <!-- <form action="/action_page.php">
           <h3 class="display-7 mb-5">Request A Demo!</h3>
           <div class="form-group">

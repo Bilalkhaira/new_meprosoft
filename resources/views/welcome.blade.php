@@ -129,7 +129,7 @@
 <div class="container-fluid about_sec">
     <div class="row">
         <div class="col-md-12">
-            <img src="{{ asset('img/newHome/about.jpg') }}" alt="">
+            <img src="{{ asset('img/new_design_img/about.jpg') }}" alt="">
             <div class="about_gray_dv">
 
             </div>

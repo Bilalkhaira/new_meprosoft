@@ -20,7 +20,7 @@
         <div class="row pt-15">
             <div class="col-xl-10 mx-auto">
                 <div class="row gy-10 gx-lg-8 gx-xl-12">
-                    <div class="col-lg-12">
+                    <div class="col-lg-6">
                         <!-- <form class="contact-form needs-validation" method="POST" action="{{ route('saveMsg') }}" novalidate>
                             @csrf
                             <div class="messages"></div>
@@ -101,7 +101,15 @@
                             </div>
                         </form> -->
                         <iframe frameborder="0" style="height:110vh;width:100%;border:none;" src='https://forms.zohopublic.in/mesprosoft/form/DemoForm/formperma/QgCExfyB8QZMT5NIFp2W7PcQiz-aJfm9osFPajQtW6o'></iframe>
-                       
+
+                    </div>
+                    <div class="col-md-6">
+                        <section class="wrapper bg-light">
+                            <div class="map">
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.6110368918403!2d77.68885717605748!3d12.996711814325224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae122c563e8a39%3A0xbb401160317ab707!2sMesprosoft%20Pvt.%20Ltd!5e0!3m2!1sen!2s!4v1686286432531!5m2!1sen!2s" style="width:100%; height: 110vh; border:0" allowfullscreen></iframe>
+                                <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25387.23478654725!2d-122.06115399490332!3d37.309248660190086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb4571bd377ab%3A0x394d3fe1a3e178b4!2sCupertino%2C%20CA%2C%20USA!5e0!3m2!1sen!2str!4v1645437305701!5m2!1sen!2str" style="width:100%; height: 500px; border:0" allowfullscreen></iframe> -->
+                            </div>
+                        </section>
                     </div>
                 </div>
                 <h1 class="resp_h">Corporate Offices</h1>
@@ -319,12 +327,7 @@
         </div>
 </section>
 
-<section class="wrapper bg-light">
-    <div class="map">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.6110368918403!2d77.68885717605748!3d12.996711814325224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae122c563e8a39%3A0xbb401160317ab707!2sMesprosoft%20Pvt.%20Ltd!5e0!3m2!1sen!2s!4v1686286432531!5m2!1sen!2s" style="width:100%; height: 500px; border:0" allowfullscreen></iframe>
-        <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25387.23478654725!2d-122.06115399490332!3d37.309248660190086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb4571bd377ab%3A0x394d3fe1a3e178b4!2sCupertino%2C%20CA%2C%20USA!5e0!3m2!1sen!2str!4v1645437305701!5m2!1sen!2str" style="width:100%; height: 500px; border:0" allowfullscreen></iframe> -->
-    </div>
-</section>
+
 @else
 <section class="wrapper bg-light">
     <div class="container pt-14 pb-12 pt-md-16 pb-md-14">

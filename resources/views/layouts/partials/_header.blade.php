@@ -18,6 +18,7 @@
 
                         <li class="nav-item dropdown hdr_dropdown">
                             <a class="nav-link dropdown-toggle" id="home_route" href="#" data-bs-toggle="dropdown">HOME</a>
+                            <a class="nav-link dropdown-toggle" id="on_mobile" href="#" data-bs-toggle="dropdown">HOME</a>
                             <div class="dropdown-menu dropdown-lg" id="menu">
                                 <div class="row">
                                     <div class="col-md-12 text-center">
@@ -49,6 +50,7 @@
 
                         <li class="nav-item dropdown hdr_dropdown">
                             <a class="nav-link dropdown-toggle" id="service_route" href="#" data-bs-toggle="dropdown">SERVICES</a>
+                            <a class="nav-link dropdown-toggle" id="on_mobile" href="#" data-bs-toggle="dropdown">SERVICES</a>
                             <div class="dropdown-menu dropdown-lg" id="menu">
                                 <div class="row">
                                     <div class="col-md-12 text-center">
@@ -98,6 +100,8 @@
 
                         <li class="nav-item dropdown hdr_dropdown">
                             <a class="nav-link dropdown-toggle" id="product_route" href="#" data-bs-toggle="dropdown">PRODUCTS &
+                                SOLUTIONS</a>
+                                <a class="nav-link dropdown-toggle" id="on_mobile" href="#" data-bs-toggle="dropdown">PRODUCTS &
                                 SOLUTIONS</a>
                             <div class="dropdown-menu dropdown-lg" id="menu">
                                 <div class="row">
@@ -256,6 +260,7 @@
 
                         <li class="nav-item dropdown hdr_dropdown">
                             <a class="nav-link dropdown-toggle" id="event_route" href="#" data-bs-toggle="dropdown">NEWS & EVENTS</a>
+                            <a class="nav-link dropdown-toggle" id="on_mobile" href="#" data-bs-toggle="dropdown">NEWS & EVENTS</a>
                             <div class="dropdown-menu dropdown-lg" id="menu">
                                 <div class="row">
                                     <div class="col-md-12 text-center">
@@ -292,7 +297,7 @@
                     <!-- /.navbar-nav -->
                     <div class="offcanvas-footer d-lg-none">
                         <div>
-                            <a href="/cdn-cgi/l/email-protection#8bede2f9f8ffa5e7eaf8ffcbeee6eae2e7a5e8e4e6" class="link-inverse"><span class="__cf_email__" data-cfemail="2e474048416e4b434f4742004d4143">[email&#160;protected]</span></a>
+                            <!-- <a href="/cdn-cgi/l/email-protection#8bede2f9f8ffa5e7eaf8ffcbeee6eae2e7a5e8e4e6" class="link-inverse"><span class="__cf_email__" data-cfemail="2e474048416e4b434f4742004d4143">[email&#160;protected]</span></a>
                             <br /> 00 (123) 456 78 90 <br />
                             <nav class="nav social social-white mt-4">
                                 <a href="#"><i class="uil uil-twitter"></i></a>
@@ -300,7 +305,7 @@
                                 <a href="#"><i class="uil uil-dribbble"></i></a>
                                 <a href="#"><i class="uil uil-instagram"></i></a>
                                 <a href="#"><i class="uil uil-youtube"></i></a>
-                            </nav>
+                            </nav> -->
                         </div>
                     </div>
                     <!-- /.offcanvas-footer -->
@@ -433,5 +438,7 @@
         $('#home_route').on('click', function() {
             window.location.href = "{{ route('home') }}";
         })
+
+        
     </script>
 </header>

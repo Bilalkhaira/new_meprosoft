@@ -168,7 +168,7 @@
 }
 
 .news_row_margin {
-    margin-top: 30px;
+    /* margin-top: 30px; */
 }
 
 .paperLess_row {
@@ -259,7 +259,7 @@
 #menu{
     min-width: auto;
     width: 100%;
-    margin-top: 0;
+    margin-top: -20px;
     /* padding: 30px 200px; */
     background-color: #fbb217;
 }
@@ -311,8 +311,8 @@
     /* height: 80vh !important; */
 }
 .carousel-caption {
-    right: 50% !important;
-    top: 30% !important;
+    right: 35% !important;
+    top: 15% !important;
     text-shadow: none !important;
 }
 .carousel-caption h1{
@@ -415,10 +415,18 @@
     text-align: center !important;
   }
   .srvc_brder_rw img{
-    margin-top: 40px;
+    /* margin-top: 40px; */
   }
   .img_dv1 p{
     font-weight: bold;
+}
+.news_row_margin ul li{
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 2;
+}
+#on_mobile{
+    display: none;
 }
 
   

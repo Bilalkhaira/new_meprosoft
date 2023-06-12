@@ -39,34 +39,35 @@
         <li>Sales</li>
         <li>Human Capital Managements</li>
       </ul>
+      <a href="{{ route('contactUs') }}"> Contact us today to learn more about how we can help you leverage the power of Mespro GPS Preconfigured Analytics to transform your business.</a>
     </div>
   </div>
   <div class="row paperLess_form_sec">
-    <div class="col-md-12 text-center mb-6">
+    <div class="col-md-12 mb-6">
       <h1><b>Unlocking Insight Features:</b></h1>
     </div>
     <div class="col-md-7 point_col">
       <div class="row">
-        <div class="col-md-3 text-right">
-          <img src="{{ asset('img/new_design_img/icons/291099_78320_Automated_Revenue_Management_Var_R_orange.png') }}" width="40%" alt="">
+        <div class="col-md-2 text-right">
+          <img src="{{ asset('img/new_design_img/icons/291099_78320_Automated_Revenue_Management_Var_R_orange.png') }}" width="60%" alt="">
         </div>
-        <div class="col-md-9">
+        <div class="col-md-10">
           <h3 class="display-7 mb-5">Mesprosoft BOBJ-GPS for Seamless Vehicle Tracking</h3>
         </div>
       </div>
       <div class="row news_row_margin">
-        <div class="col-md-3 text-right">
-          <img src="{{ asset('img/new_design_img/icons/291099_78320_Automated_Revenue_Management_Var_R_neg_orange.png') }}" width="40%" alt="">
+        <div class="col-md-2 text-right">
+          <img src="{{ asset('img/new_design_img/icons/291099_78320_Automated_Revenue_Management_Var_R_neg_orange.png') }}" width="60%" alt="">
         </div>
-        <div class="col-md-9">
+        <div class="col-md-10">
           <h3 class="display-7 mb-5">Mesprosoft's Smart Solutions for On-Demand Vehicle Tracking</h3>
         </div>
       </div>
       <div class="row news_row_margin">
-        <div class="col-md-3 text-right">
-          <img src="{{ asset('img/new_design_img/icons/291100_78320_Automated_Revenue_Management_R_orange.png') }}" width="40%" alt="">
+        <div class="col-md-2 text-right">
+          <img src="{{ asset('img/new_design_img/icons/291100_78320_Automated_Revenue_Management_R_orange.png') }}" width="60%" alt="">
         </div>
-        <div class="col-md-9">
+        <div class="col-md-10">
           <h3 class="display-7 mb-5">Mesprosoft's GPS-powered Solutions for Effortless Vehicle Tracking</h3>
         </div>
       </div>
@@ -74,7 +75,7 @@
     </div>
     <div class="col-md-5">
       <div class="paperLess_form_outer">
-      <iframe frameborder="0" style="height:500px;width:100%;border:none;" src='https://forms.zohopublic.in/mesprosoft/form/RequestADemo/formperma/sdZ_uTFMLGDUasTpWtNEac3QFJovqtFU95ZUJtUcY-4'></iframe>
+      <iframe frameborder="0" style="height:650px;width:100%;border:none;" src='https://forms.zohopublic.in/mesprosoft/form/RequestADemo/formperma/sdZ_uTFMLGDUasTpWtNEac3QFJovqtFU95ZUJtUcY-4'></iframe>
         <!-- <form action="/action_page.php">
           <h3 class="display-7 mb-5">Request A Demo!</h3>
           <div class="form-group">
