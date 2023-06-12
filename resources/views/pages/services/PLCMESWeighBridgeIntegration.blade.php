@@ -1,10 +1,11 @@
 @extends('layouts.master')
 @section('css')
 <style>
-  p{
+  p {
     text-align: justify;
   }
-  li{
+
+  li {
     text-align: justify;
   }
 </style>
@@ -30,19 +31,19 @@
     </div>
     <div class="col-md-6">
       <p>In a complete production environment it is seldom enough to have a standalone system, connected and Automated system brings high level of consistency in Quality and traceability of the products.</p>
-    <p><b>Features</b></p>
-    <ul>
-      <li>Mesprosoft integration connectivity services enables your SAP to be connected to Weigh Bridge – ensuring Real-time inward, outward, net weight and tare weight calculation.</li>
-      <li>Dispensing Connectivity – Connect your dispensing weigh bridge to ensure you are dispensing the correct amount for blending with indicators of Min and Max levels.</li>
-      <li>MES Integration – With SAP OPC connectivity Mesprosoft can connect to PLC and fetch information on production and process parameters directly from PLC and sensors</li>
-    </ul>
+      <p><b>Features</b></p>
+      <ul>
+        <li>Mesprosoft integration connectivity services enables your SAP to be connected to Weigh Bridge – ensuring Real-time inward, outward, net weight and tare weight calculation.</li>
+        <li>Dispensing Connectivity – Connect your dispensing weigh bridge to ensure you are dispensing the correct amount for blending with indicators of Min and Max levels.</li>
+        <li>MES Integration – With SAP OPC connectivity Mesprosoft can connect to PLC and fetch information on production and process parameters directly from PLC and sensors</li>
+      </ul>
     </div>
   </div>
   <div class="row paperLess_form_sec">
-  <div class="col-md-12 text-center mb-6">
+    <div class="col-md-12 text-center mb-6">
       <h1><b>Unlocking Insight Features:</b></h1>
     </div>
-    <div class="col-md-8 point_col">
+    <div class="col-md-7 point_col">
       <div class="row">
         <div class="col-md-3 text-right">
           <img src="{{ asset('img/new_design_img/icons/288005_iLM_v3_R_neg_orange.png') }}" width="40%" alt="">
@@ -69,10 +70,11 @@
       </div>
 
     </div>
-    <div class="col-md-4">
+    <div class="col-md-5">
       <div class="paperLess_form_outer">
-        <form action="/action_page.php">
-        <h3 class="display-7 mb-5">Request A Demo!</h3>
+      <iframe frameborder="0" style="height:500px;width:100%;border:none;" src='https://forms.zohopublic.in/mesprosoft/form/RequestADemo/formperma/sdZ_uTFMLGDUasTpWtNEac3QFJovqtFU95ZUJtUcY-4'></iframe>
+        <!-- <form action="/action_page.php">
+          <h3 class="display-7 mb-5">Request A Demo!</h3>
           <div class="form-group">
             <input type="text" class="form-control" placeholder="Name">
           </div>
@@ -92,7 +94,7 @@
           </div>
 
           <button type="submit" class="btn btn-primary">Submit</button>
-        </form>
+        </form> -->
       </div>
     </div>
   </div>

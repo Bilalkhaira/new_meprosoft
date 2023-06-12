@@ -1,10 +1,11 @@
 @extends('layouts.master')
 @section('css')
 <style>
-  p{
+  p {
     text-align: justify;
   }
-  li{
+
+  li {
     text-align: justify;
   }
 </style>
@@ -29,20 +30,20 @@
       <img src="{{ asset('img/new_design_img/31.jpeg') }}" width="100%" alt="">
     </div>
     <div class="col-md-6">
-     <p>Businesses with disorganized dispatch systems will eventually struggle for their life. Already such companies that are manually planning their routes, monitoring their vehicles and handing over the assignment to their driver are risking their business growth profile. But those that are capitalizing on automation are effectively handling the movement of their inventory by prioritizing all those things which might have been overlooked earlier. So come along! With exceptional expertise in creating automation for businesses, MesProSoft is optimizing the goods dispatch processes for companies. Our services help you eliminate labour-intensive, time-consuming and costly activities – worth recommending for consumer-based products.</p>
-    <p><b>Features</b></p>
-    <ul>
-      <li>Semi-Automatic/ Fully System for professional-like inventory control.</li>
-      <li>Improving the cash flow by bringing transparency in the confirmed orders & remaining stocks.</li>
-      <li>Weighing up dispatchable capacity to stay prepared earlier.</li>
-    </ul>
+      <p>Businesses with disorganized dispatch systems will eventually struggle for their life. Already such companies that are manually planning their routes, monitoring their vehicles and handing over the assignment to their driver are risking their business growth profile. But those that are capitalizing on automation are effectively handling the movement of their inventory by prioritizing all those things which might have been overlooked earlier. So come along! With exceptional expertise in creating automation for businesses, MesProSoft is optimizing the goods dispatch processes for companies. Our services help you eliminate labour-intensive, time-consuming and costly activities – worth recommending for consumer-based products.</p>
+      <p><b>Features</b></p>
+      <ul>
+        <li>Semi-Automatic/ Fully System for professional-like inventory control.</li>
+        <li>Improving the cash flow by bringing transparency in the confirmed orders & remaining stocks.</li>
+        <li>Weighing up dispatchable capacity to stay prepared earlier.</li>
+      </ul>
     </div>
   </div>
   <div class="row paperLess_form_sec">
-  <div class="col-md-12 text-center mb-6">
+    <div class="col-md-12 text-center mb-6">
       <h1><b>Unlocking Insight Features:</b></h1>
     </div>
-    <div class="col-md-8 point_col">
+    <div class="col-md-7 point_col">
       <div class="row">
         <div class="col-md-3 text-right">
           <img src="{{ asset('img/new_design_img/icons/288316_WIPS_R_orange.png') }}" width="40%" alt="">
@@ -77,10 +78,11 @@
       </div>
 
     </div>
-    <div class="col-md-4">
+    <div class="col-md-5">
       <div class="paperLess_form_outer">
-        <form action="/action_page.php">
-        <h3 class="display-7 mb-5">Request A Demo!</h3>
+      <iframe frameborder="0" style="height:500px;width:100%;border:none;" src='https://forms.zohopublic.in/mesprosoft/form/RequestADemo/formperma/sdZ_uTFMLGDUasTpWtNEac3QFJovqtFU95ZUJtUcY-4'></iframe>
+        <!-- <form action="/action_page.php">
+          <h3 class="display-7 mb-5">Request A Demo!</h3>
           <div class="form-group">
             <input type="text" class="form-control" placeholder="Name">
           </div>
@@ -100,7 +102,7 @@
           </div>
 
           <button type="submit" class="btn btn-primary">Submit</button>
-        </form>
+        </form> -->
       </div>
     </div>
   </div>

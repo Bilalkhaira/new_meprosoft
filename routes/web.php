@@ -59,62 +59,62 @@ Route::post('saveMsg', [ContactusController::class, 'save'])->name('saveMsg');
 
 // NavMenu Routes
 // Services Routes
-Route::get('/business_consulting', [ServiceController::class, 'businessConsulting'])->name('services.businessConsulting');
+Route::get('/business-consulting', [ServiceController::class, 'businessConsulting'])->name('services.businessConsulting');
 Route::get('/services', [ServiceController::class, 'index'])->name('services.index');
-Route::get('/digital_transformation_with_cloud', [ServiceController::class, 'digitalTransformationWithCloud'])->name('services.digitalTransformationWithCloud');
-Route::get('/hana_conversion', [ServiceController::class, 'hanaConversion'])->name('services.hanaConversion');
-Route::get('/IPO_compliance', [ServiceController::class, 'IPOCompliance'])->name('services.IPOCompliance');
-Route::get('/PLCMES_weigh_bridge_integration', [ServiceController::class, 'PLCMESWeighBridgeIntegration'])->name('services.PLCMESWeighBridgeIntegration');
-Route::get('/resource_argumentation', [ServiceController::class, 'resourceArgumentation'])->name('services.resourceArgumentation');
-Route::get('/application_support', [ServiceController::class, 'applicationSupport'])->name('services.applicationSupport');
-Route::get('/specific_consulting', [ServiceController::class, 'specificConsulting'])->name('services.specificConsulting');
+Route::get('/digital-transformation-with-cloud', [ServiceController::class, 'digitalTransformationWithCloud'])->name('services.digitalTransformationWithCloud');
+Route::get('/hana-conversion', [ServiceController::class, 'hanaConversion'])->name('services.hanaConversion');
+Route::get('/IPO-compliance', [ServiceController::class, 'IPOCompliance'])->name('services.IPOCompliance');
+Route::get('/PLCMES-weigh-bridge-integration', [ServiceController::class, 'PLCMESWeighBridgeIntegration'])->name('services.PLCMESWeighBridgeIntegration');
+Route::get('/resource-argumentation', [ServiceController::class, 'resourceArgumentation'])->name('services.resourceArgumentation');
+Route::get('/application-support', [ServiceController::class, 'applicationSupport'])->name('services.applicationSupport');
+Route::get('/specific-consulting', [ServiceController::class, 'specificConsulting'])->name('services.specificConsulting');
 // home menu routes
-Route::get('/about_mesprosoft', [HomeMenuController::class, 'aboutUs'])->name('home.about');
-Route::get('/management_team', [HomeMenuController::class, 'managementTeam'])->name('home.managementTeam');
-Route::get('/core_values', [HomeMenuController::class, 'coreValues'])->name('home.coreValues');
-Route::get('/why_mesprosoft', [HomeMenuController::class, 'whyMesprosoft'])->name('home.whyMesprosoft');
+Route::get('/about-mesprosoft', [HomeMenuController::class, 'aboutUs'])->name('home.about');
+Route::get('/management-team', [HomeMenuController::class, 'managementTeam'])->name('home.managementTeam');
+Route::get('/core-values', [HomeMenuController::class, 'coreValues'])->name('home.coreValues');
+Route::get('/why-mesprosoft', [HomeMenuController::class, 'whyMesprosoft'])->name('home.whyMesprosoft');
 // product and solution routes
-Route::get('/product_and_solution', [ProductsAndSolutionController::class, 'index'])->name('productsAndSolutions.index');
-Route::get('/dispatch_automation', [ProductsAndSolutionController::class, 'dispatchAutomation'])->name('productAndSolution.dispatchAutomation');
-Route::get('/dynamic_machine_scheduling', [ProductsAndSolutionController::class, 'dynamicMachineScheduling'])->name('productAndSolution.dynamicMachineScheduling');
-Route::get('/electronic_batch_manufacturing', [ProductsAndSolutionController::class, 'electronicBatchManufacturing'])->name('productAndSolution.electronicBatchManufacturing');
-Route::get('/handheld_mobile_bar_code', [ProductsAndSolutionController::class, 'handheldMobileBarCode'])->name('productAndSolution.handheldMobileBarCode');
-Route::get('/loan_management_solution', [ProductsAndSolutionController::class, 'loanManagementSolution'])->name('productAndSolution.loanManagementSolution');
-Route::get('/mespro_GPS_Preconfigured_analytics', [ProductsAndSolutionController::class, 'mesproGPSPreconfiguredAnalytics'])->name('productAndSolution.mesproGPSPreconfiguredAnalytics');
-Route::get('/mespro_life_science_CFR_part11', [ProductsAndSolutionController::class, 'mesproLifeScienceCFRPart11'])->name('productAndSolution.mesproLifeScienceCFRPart11');
-Route::get('/mespro_optimized_MRP', [ProductsAndSolutionController::class, 'mesproOptimizedMRP'])->name('productAndSolution.mesproOptimizedMRP');
-Route::get('/mespro_paperess_manufacturing', [ProductsAndSolutionController::class, 'mesproPaperessManufacturing'])->name('productAndSolution.mesproPaperessManufacturing');
-Route::get('/MesproX_Steps', [ProductsAndSolutionController::class, 'MesproX_Steps'])->name('productAndSolution.MesproX-Steps');
-Route::get('/O2C_automation', [ProductsAndSolutionController::class, 'O2CAutomation'])->name('productAndSolution.O2CAutomation');
-Route::get('/purchase_budget_check_and_approval', [ProductsAndSolutionController::class, 'purchaseBudgetCheckAndApproval'])->name('productAndSolution.purchaseBudgetCheckAndApproval');
-Route::get('/smart_foundry', [ProductsAndSolutionController::class, 'smartFoundry'])->name('productAndSolution.smartFoundry');
-Route::get('/TS16949_compliant_KAPA', [ProductsAndSolutionController::class, 'TS16949CompliantKAPA'])->name('productAndSolution.TS16949CompliantKAPA');
+Route::get('/product-and-solution', [ProductsAndSolutionController::class, 'index'])->name('productsAndSolutions.index');
+Route::get('/dispatch-automation', [ProductsAndSolutionController::class, 'dispatchAutomation'])->name('productAndSolution.dispatchAutomation');
+Route::get('/dynamic-machine-scheduling', [ProductsAndSolutionController::class, 'dynamicMachineScheduling'])->name('productAndSolution.dynamicMachineScheduling');
+Route::get('/electronic-batch-manufacturing', [ProductsAndSolutionController::class, 'electronicBatchManufacturing'])->name('productAndSolution.electronicBatchManufacturing');
+Route::get('/handheld-mobile-bar-code', [ProductsAndSolutionController::class, 'handheldMobileBarCode'])->name('productAndSolution.handheldMobileBarCode');
+Route::get('/loan-management-solution', [ProductsAndSolutionController::class, 'loanManagementSolution'])->name('productAndSolution.loanManagementSolution');
+Route::get('/mespro-GPS-Preconfigured-analytics', [ProductsAndSolutionController::class, 'mesproGPSPreconfiguredAnalytics'])->name('productAndSolution.mesproGPSPreconfiguredAnalytics');
+Route::get('/mespro-life-science-CFR-part11', [ProductsAndSolutionController::class, 'mesproLifeScienceCFRPart11'])->name('productAndSolution.mesproLifeScienceCFRPart11');
+Route::get('/mespro-optimized-MRP', [ProductsAndSolutionController::class, 'mesproOptimizedMRP'])->name('productAndSolution.mesproOptimizedMRP');
+Route::get('/mespro-paperess-manufacturing', [ProductsAndSolutionController::class, 'mesproPaperessManufacturing'])->name('productAndSolution.mesproPaperessManufacturing');
+Route::get('/MesproX-Steps', [ProductsAndSolutionController::class, 'MesproX_Steps'])->name('productAndSolution.MesproX-Steps');
+Route::get('/O2C-automation', [ProductsAndSolutionController::class, 'O2CAutomation'])->name('productAndSolution.O2CAutomation');
+Route::get('/purchase-budget-check-and-approval', [ProductsAndSolutionController::class, 'purchaseBudgetCheckAndApproval'])->name('productAndSolution.purchaseBudgetCheckAndApproval');
+Route::get('/smart-foundry', [ProductsAndSolutionController::class, 'smartFoundry'])->name('productAndSolution.smartFoundry');
+Route::get('/TS16949-compliant-KAPA', [ProductsAndSolutionController::class, 'TS16949CompliantKAPA'])->name('productAndSolution.TS16949CompliantKAPA');
 
 Route::get('/BTP', [ProductsAndSolutionController::class, 'BTP'])->name('productAndSolution.BTP');
 Route::get('/IOT', [ProductsAndSolutionController::class, 'IOT'])->name('productAndSolution.IOT');
 // case study routes
-Route::get('/food_industry', [CaseStudyControler::class, 'foodIndustry'])->name('caseStudy.foodIndustry');
-Route::get('/machine_tool_industry', [CaseStudyControler::class, 'machineToolIndustry'])->name('caseStudy.machineToolIndustry');
-Route::get('/sap_Hospitals_capability', [CaseStudyControler::class, 'SAPHospitalsCapability'])->name('caseStudy.SAPHospitalsCapability');
-Route::get('/SAP_NBFC', [CaseStudyControler::class, 'SAPNBFC'])->name('caseStudy.SAPNBFC');
-Route::get('/food_processing_consumer_ware', [CaseStudyControler::class, 'foodProcessingConsumerWare'])->name('caseStudy.foodProcessingConsumerWare');
+Route::get('/food-industry', [CaseStudyControler::class, 'foodIndustry'])->name('caseStudy.foodIndustry');
+Route::get('/machine-tool-industry', [CaseStudyControler::class, 'machineToolIndustry'])->name('caseStudy.machineToolIndustry');
+Route::get('/sap-Hospitals-capability', [CaseStudyControler::class, 'SAPHospitalsCapability'])->name('caseStudy.SAPHospitalsCapability');
+Route::get('/SAP-NBFC', [CaseStudyControler::class, 'SAPNBFC'])->name('caseStudy.SAPNBFC');
+Route::get('/food-processing-consumer-ware', [CaseStudyControler::class, 'foodProcessingConsumerWare'])->name('caseStudy.foodProcessingConsumerWare');
 Route::get('/manufacturing', [CaseStudyControler::class, 'manufacturing'])->name('caseStudy.manufacturing');
 Route::get('/pharmaceuticals', [CaseStudyControler::class, 'pharmaceuticals'])->name('caseStudy.pharmaceuticals');
-Route::get('/automotive_components', [CaseStudyControler::class, 'automotiveComponents'])->name('caseStudy.automotiveComponents');
-Route::get('/foam_packaging_products', [CaseStudyControler::class, 'foamPackagingProducts'])->name('caseStudy.foamPackagingProducts');
-Route::get('/rubber_and_polymers', [CaseStudyControler::class, 'rubberandPolymers'])->name('caseStudy.rubberandPolymers');
-Route::get('/AIRCRAFT_industries', [CaseStudyControler::class, 'AIRCRAFTIndustries'])->name('caseStudy.AIRCRAFTIndustries');
-Route::get('/real_estate_industries', [CaseStudyControler::class, 'realEstateIndustries'])->name('caseStudy.realEstateIndustries');
-Route::get('/UTILITIES_industries', [CaseStudyControler::class, 'UTILITIESIndustries'])->name('caseStudy.UTILITIESIndustries');
+Route::get('/automotive-components', [CaseStudyControler::class, 'automotiveComponents'])->name('caseStudy.automotiveComponents');
+Route::get('/foam-packaging-products', [CaseStudyControler::class, 'foamPackagingProducts'])->name('caseStudy.foamPackagingProducts');
+Route::get('/rubber-and-polymers', [CaseStudyControler::class, 'rubberandPolymers'])->name('caseStudy.rubberandPolymers');
+Route::get('/AIRCRAFT-industries', [CaseStudyControler::class, 'AIRCRAFTIndustries'])->name('caseStudy.AIRCRAFTIndustries');
+Route::get('/real-estate-industries', [CaseStudyControler::class, 'realEstateIndustries'])->name('caseStudy.realEstateIndustries');
+Route::get('/UTILITIES-industries', [CaseStudyControler::class, 'UTILITIESIndustries'])->name('caseStudy.UTILITIESIndustries');
 // event and news route
-Route::get('/event_and_news', [NewsAndEventController::class, 'index'])->name('eventAndNews.index');
+Route::get('/news', [NewsAndEventController::class, 'index'])->name('eventAndNews.index');
 Route::get('/events', [NewsAndEventController::class, 'event'])->name('eventAndNews.event');
-Route::get('/event_detail', [NewsAndEventController::class, 'eventDetail'])->name('eventAndNews.eventDetail');
-Route::get('/news', [NewsAndEventController::class, 'news'])->name('eventAndNews.news');
+Route::get('/event-detail', [NewsAndEventController::class, 'eventDetail'])->name('eventAndNews.eventDetail');
+// Route::get('/news', [NewsAndEventController::class, 'news'])->name('eventAndNews.news');
 // careers route
 Route::get('/career', [CareerController::class, 'index'])->name('careers.index');
 // contact us route
-Route::get('/contact_us', [ContactusController::class, 'index'])->name('contactUs');
+Route::get('/contact-us', [ContactusController::class, 'index'])->name('contactUs');
 
 
 // Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');

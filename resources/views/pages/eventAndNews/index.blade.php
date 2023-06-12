@@ -36,7 +36,7 @@
     <div class="col-md-6">
       <div class="row">
         <div class="col-md-12">
-          <h3 class="display-7 mb-5">Mesprosoft Introduced</h3>
+          <h3 class="display-7 mb-5">Transformation Express by SAP: Powering a Digital India.</h3>
           <img class="mb-8" src="{{ asset('img/new_design_img/news2.png') }}" width="100%" alt="">
           <p>Mesprosoft Introduced A New Pay Per Ticket Model For Its Customers...</p>
           <a href="https://www.mesprosoft.com/wp-content/uploads/2018/06/Mespro_Pay_Per_Ticket.pdf" target="_blank" class="btn btn-primary btn-sm">Read More</a>

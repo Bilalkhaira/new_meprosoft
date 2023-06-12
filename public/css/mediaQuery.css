@@ -1,0 +1,135 @@
+@media only screen and (max-width: 768px) {
+    #menu .col-md-4 {
+        display: block;
+        width: 100%;
+    }
+#service_head_img{
+    height: 30vh;
+}
+h1 {
+    font-size: 22px !important;
+}
+h5 {
+    font-size: 15px !important;
+}
+.home_menu_border{
+    margin-left: 15px !important;
+    margin-right: 15px !important;
+    padding: 15px 10px;
+}
+.ftr_above_sec {
+    margin: 25px 0px !important;
+}
+.sec_padding {
+    padding: 5px 80px 5px 80px !important;
+    text-align: center !important;
+}
+.nv_col h5 {
+    margin-left: 0px !important;
+}
+.nv_col {
+    margin-top: 25px !important;
+}
+.nv_col ul {
+    padding-left: 0px !important;
+}
+.img_dv {
+    padding: 2px 5px;
+    bottom: 61%;
+    left: 0%;
+    width: 95%;
+}
+.img_dv h1 {
+    font-size: 18px !important;
+    margin-top: 0px;
+    margin-bottom: 2px;
+}
+.img_dv p {
+    line-height: 17px;
+}
+.paperLess_row {
+    padding: 50px 20px;
+}
+.point_col {
+    padding-top: 0px;
+}
+.paperLess_form_sec h1{
+    margin-top: 0px;
+    margin-bottom: -20px;
+}
+.nv_col ul li{
+    text-align: center;
+}
+.point_col .col-md-3{
+    text-align: center;
+}
+.point_col .col-md-9{
+    text-align: center;
+}
+.point_col .col-md-9 h3{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 18px;
+}
+.point_col .row{
+    margin-left: 15px;
+    margin-right: 15px;
+    border-bottom: 1px solid lightgray;
+}
+.case_study_sec img {
+    margin-top: 0px;
+}
+.row>*{
+    margin-top: 0px;
+}
+.service_link_below_sec {
+    padding: 0px 0px;
+}
+.product_vedio_sec .hdg_dv {
+    padding-top: 0px;
+}
+.product_vedio_sec video{
+    height: 270px;
+}
+.optimize_envolvement div {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+    text-align: center;
+}
+.news h3{
+    font-weight: 300;
+}
+.hdr_bg{
+    position: relative;
+}
+.open_job_row img{
+    display: none;
+}
+.open_job{
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 0px;
+}
+.open_job .row{
+    margin-bottom: 30px;
+}
+.career{
+    padding-top : 30px;
+    text-align: left !important;
+}
+.career_p{
+    text-align: left;
+}
+.resp_h{
+    margin-bottom: 50px;
+}
+.img_dv1 {
+    padding: 1px 11px;
+    bottom: 0%;
+    right: 0%;
+    width: 95%;
+}
+.img_dv1 p{
+    font-weight: 500 !important;
+}
+}

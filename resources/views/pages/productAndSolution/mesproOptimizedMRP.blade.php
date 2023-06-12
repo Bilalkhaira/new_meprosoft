@@ -1,10 +1,11 @@
 @extends('layouts.master')
 @section('css')
 <style>
-  p{
+  p {
     text-align: justify;
   }
-  li{
+
+  li {
     text-align: justify;
   }
 </style>
@@ -29,22 +30,22 @@
       <img src="{{ asset('img/new_design_img/39.jpeg') }}" width="100%" alt="">
     </div>
     <div class="col-md-6">
-    <h3 class="display-7 mb-5">HOW EFFICIENT IS YOUR MRP RUN?</h3>
-    <p><b>Are your operations not running smoothly? Is your Material Requirement Planning (MRP) lacking accuracy? Or have you been going through certain limitations in the current MRP solutions? Well, you have found the right place. </b></p>
-<p>If conventional MRP solutions aren't delivering optimal results, let's integrate planning and some powerful execution tools that aid in superior inventory control at a reduced cost. With an optimized MRP, Mesprosoft ensures an even allocation of raw materials and resources. Simultaneously this results into the following benefits  </p>      
-<ul>
-  <li>Lower inventory costs for our clients by 2-4%.</li>
-  <li>Dropped the accumulation of dead stock to zero percent.</li>
-  <li>Real-time alignment of planned purchases with vendors' most recent delivery schedules.</li>
-  <li>Full transparency, tracking against set dates, and much more with optimized MRP.</li>
-</ul>   
-</div>
+      <h3 class="display-7 mb-5">HOW EFFICIENT IS YOUR MRP RUN?</h3>
+      <p><b>Are your operations not running smoothly? Is your Material Requirement Planning (MRP) lacking accuracy? Or have you been going through certain limitations in the current MRP solutions? Well, you have found the right place. </b></p>
+      <p>If conventional MRP solutions aren't delivering optimal results, let's integrate planning and some powerful execution tools that aid in superior inventory control at a reduced cost. With an optimized MRP, Mesprosoft ensures an even allocation of raw materials and resources. Simultaneously this results into the following benefits </p>
+      <ul>
+        <li>Lower inventory costs for our clients by 2-4%.</li>
+        <li>Dropped the accumulation of dead stock to zero percent.</li>
+        <li>Real-time alignment of planned purchases with vendors' most recent delivery schedules.</li>
+        <li>Full transparency, tracking against set dates, and much more with optimized MRP.</li>
+      </ul>
+    </div>
   </div>
   <div class="row paperLess_form_sec">
-  <div class="col-md-12 text-center mb-6">
+    <div class="col-md-12 text-center mb-6">
       <h1><b>Unlocking Insight Features:</b></h1>
     </div>
-    <div class="col-md-8 point_col">
+    <div class="col-md-7 point_col">
       <div class="row">
         <div class="col-md-3 text-right">
           <img src="{{ asset('img/new_design_img/icons/293468_ireland.png') }}" width="40%" alt="">
@@ -71,9 +72,10 @@
       </div>
 
     </div>
-    <div class="col-md-4">
+    <div class="col-md-5">
       <div class="paperLess_form_outer">
-        <form action="/action_page.php">
+      <iframe frameborder="0" style="height:500px;width:100%;border:none;" src='https://forms.zohopublic.in/mesprosoft/form/RequestADemo/formperma/sdZ_uTFMLGDUasTpWtNEac3QFJovqtFU95ZUJtUcY-4'></iframe>
+        <!-- <form action="/action_page.php">
           <h3 class="display-7 mb-5">Request A Demo!</h3>
           <div class="form-group">
             <input type="text" class="form-control" placeholder="Name">
@@ -94,7 +96,7 @@
           </div>
 
           <button type="submit" class="btn btn-primary">Submit</button>
-        </form>
+        </form> -->
       </div>
     </div>
   </div>

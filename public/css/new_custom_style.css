@@ -184,7 +184,7 @@
 }
 
 .paperLess_form_outer {
-    padding: 40px;
+    padding: 30px;
     background-color: #7173ac;
     text-align: center;
     margin-top: 35px;
@@ -414,25 +414,27 @@
   #menu p{
     text-align: center !important;
   }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-@media only screen and (max-width: 768px) {
-#menu .col-md-4{
-    display: block;
-    width: 100%;
-}   
+  .srvc_brder_rw img{
+    margin-top: 40px;
+  }
+  .img_dv1 p{
+    font-weight: bold;
 }
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

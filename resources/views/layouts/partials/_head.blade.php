@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="{{ asset('css/aqua.css') }}" />
     <link rel="stylesheet" href="{{ asset('css/dm.css') }}" />
     <link rel="stylesheet" href="{{ asset('css/new_custom_style.css') }}" />
+    <link rel="stylesheet" href="{{ asset('css/mediaQuery.css') }}" />
 
     @if(\Request::route()->getName() != 'home')
     <link rel="stylesheet" href="{{ asset('css/custom_style.css') }}" />

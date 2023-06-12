@@ -21,7 +21,7 @@
     <div class="row">
         <div class="col-md-12 text-center">
             <h1>We Are Looking A New <br> Fresh Talent <br> To Join Our Team</h1>
-            <p>We are hiring 50 Functional consultants as Associate consultants<br> SAP S/4 HANA, Training in SAP S/4 HANA will be provided, <br>candidate has to undertake an agreement on <br>staying back post training.</p>
+            <p class="">We are hiring 50 Functional consultants as Associate consultants<br> SAP S/4 HANA, Training in SAP S/4 HANA will be provided, <br>candidate has to undertake an agreement on <br>staying back post training.</p>
         </div>
     </div>
 
@@ -117,7 +117,7 @@
     <div class="row mb-15 mt-10">
         <div class="row">
             <div class="col-md-12 text-center">
-            <p>We are hiring 50 Functional consultants as Associate consultants<br> SAP S/4 HANA, Training in SAP S/4 HANA will be provided, <br>candidate has to undertake an agreement on <br>staying back post training.</p>
+            <p class="career_p">We are hiring 50 Functional consultants as Associate consultants<br> SAP S/4 HANA, Training in SAP S/4 HANA will be provided, <br>candidate has to undertake an agreement on <br>staying back post training.</p>
             </div>
         </div>
     </div>

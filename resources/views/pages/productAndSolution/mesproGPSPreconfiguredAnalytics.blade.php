@@ -1,10 +1,11 @@
 @extends('layouts.master')
 @section('css')
 <style>
-  p{
+  p {
     text-align: justify;
   }
-  li{
+
+  li {
     text-align: justify;
   }
 </style>
@@ -41,10 +42,10 @@
     </div>
   </div>
   <div class="row paperLess_form_sec">
-  <div class="col-md-12 text-center mb-6">
+    <div class="col-md-12 text-center mb-6">
       <h1><b>Unlocking Insight Features:</b></h1>
     </div>
-    <div class="col-md-8 point_col">
+    <div class="col-md-7 point_col">
       <div class="row">
         <div class="col-md-3 text-right">
           <img src="{{ asset('img/new_design_img/icons/291099_78320_Automated_Revenue_Management_Var_R_orange.png') }}" width="40%" alt="">
@@ -71,9 +72,10 @@
       </div>
 
     </div>
-    <div class="col-md-4">
+    <div class="col-md-5">
       <div class="paperLess_form_outer">
-        <form action="/action_page.php">
+      <iframe frameborder="0" style="height:500px;width:100%;border:none;" src='https://forms.zohopublic.in/mesprosoft/form/RequestADemo/formperma/sdZ_uTFMLGDUasTpWtNEac3QFJovqtFU95ZUJtUcY-4'></iframe>
+        <!-- <form action="/action_page.php">
           <h3 class="display-7 mb-5">Request A Demo!</h3>
           <div class="form-group">
             <input type="text" class="form-control" placeholder="Name">
@@ -94,7 +96,7 @@
           </div>
 
           <button type="submit" class="btn btn-primary">Submit</button>
-        </form>
+        </form> -->
       </div>
     </div>
   </div>

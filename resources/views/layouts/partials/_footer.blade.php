@@ -3,7 +3,7 @@
             <div class="col-md-3">
                 <div class="row">
                     <div class="col-md-12">
-                        <a href="#"><img src="{{ asset('img/logo-dark.png') }}" alt="" width="70%"></a>
+                        <a href="{{ route('home') }}"><img src="{{ asset('img/logo-dark.png') }}" alt="" width="70%"></a>
                     </div>
                 </div>
                 <!-- <div class="row">
@@ -29,7 +29,7 @@
             <div class="col-md-3 nv_col">
                 <h5 style="margin-left: 40px;">Quick Links</h5>
                 <ul>
-                    <li><a href="{{ route('home.about') }}">Home</a></li>
+                    <li><a href="{{ route('home') }}">Home</a></li>
                     <li><a href="{{ route('services.businessConsulting') }}">Services</a></li>
                     <li><a href="{{ route('productAndSolution.dispatchAutomation') }}">Products & Solutions</a></li>
                     <li><a href="{{ route('caseStudy.foodIndustry') }}">Case Studies</a></li>

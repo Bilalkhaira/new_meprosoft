@@ -75,53 +75,113 @@
     <div class="row srvc_brder_rw">
         <div class="col-md-3">
             <div class="row">
-                <div class="col-md-3">
-                <img src="{{ asset('img/new_design_img/icons/288005_iLM_v3_R_orange.png') }}" width="100%" alt="">
-                </div>
+                <div class="col-md-3"></div>
                 <div class="col-md-9">
                     <h5>Business Consulting</h5>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="row">
+                <div class="col-md-3"></div>
+                <div class="col-md-9">
+                    <h5>Digital Transformation With Cloud</h5>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="row">
+                <div class="col-md-3"></div>
+                <div class="col-md-9">
+                    <h5>S/4 Hana Conversion</h5>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="row">
+                <div class="col-md-3"></div>
+                <div class="col-md-9">
+                    <h5>Application Support</h5>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="row">
+                <div class="col-md-3 circle_col">
+                    <!-- <span class="circle"> -->
+                        <img src="{{ asset('img/new_design_img/icons/288005_iLM_v3_R_orange.png') }}" width="100%" alt="">
+                    <!-- </span> -->
+                </div>
+                <div class="col-md-9">
                     <p>Mesprosoft provides thorough business consulting services to assist organisations in overcoming obstacles, streamlining procedures, and achieving their strategic goals.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="row">
+                <div class="col-md-3 circle_col">
+                    <!-- <span class="circle"></span> -->
+                    <img src="{{ asset('img/new_design_img/icons/291075_Continuous_attention_to_excellence_R_orange.png') }}" width="100%" alt="">
+                </div>
+                <div class="col-md-9">
+                    <p>Mesprosoft understand that digital transformation is the key to improving business operations and enhancing customer experiences.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="row">
+                <div class="col-md-3 circle_col">
+                    <!-- <span class="circle"></span> -->
+                    <img src="{{ asset('img/new_design_img/icons/291076_Deliver_value_frequently_R_orange.png') }}" width="100%" alt="">
+                </div>
+                <div class="col-md-9">
+                    <p>Mesprosoft has extensive expertise in S/4HANA conversion, helping businesses to migrate from their existing SAP systems to the powerful</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="row">
+                <div class="col-md-3 circle_col">
+                    <!-- <span class="circle"></span> -->
+                    <img src="{{ asset('img/new_design_img/icons/288316_WIPS_R_orange.png') }}" width="100%" alt="">
+                </div>
+                <div class="col-md-9">
+                    <p>Mesprosoft provides comprehensive application support services to ensure the smooth functioning and uninterrupted operation of software applications utilised by our clients.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="row">
+                <div class="col-md-3"></div>
+                <div class="col-md-9">
                     <a href="{{ route('services.businessConsulting') }}" class="btn btn-outline-secondary readMore_btn">Read More</a>
                 </div>
             </div>
         </div>
         <div class="col-md-3">
             <div class="row">
-                <div class="col-md-3">
-                <img src="{{ asset('img/new_design_img/icons/291075_Continuous_attention_to_excellence_R_orange.png') }}" width="100%" alt="">
-                </div>
+                <div class="col-md-3"></div>
                 <div class="col-md-9">
-                    <h5>Digital Transformation With Cloud</h5>
-                    <p>Mesprosoft understand that digital transformation is the key to improving business operations and enhancing customer experiences.</p>
                     <a href="{{ route('services.digitalTransformationWithCloud') }}" class="btn btn-outline-secondary readMore_btn">Read More</a>
                 </div>
             </div>
         </div>
         <div class="col-md-3">
             <div class="row">
-                <div class="col-md-3">
-                <img src="{{ asset('img/new_design_img/icons/291076_Deliver_value_frequently_R_orange.png') }}" width="100%" alt="">
-                </div>
+                <div class="col-md-3"></div>
                 <div class="col-md-9">
-                    <h5>S/4 Hana Conversion</h5>
-                    <p>Mesprosoft has extensive expertise in S/4HANA conversion, helping businesses to migrate from their existing SAP systems to the powerful</p>
                     <a href="{{ route('services.hanaConversion') }}" class="btn btn-outline-secondary readMore_btn">Read More</a>
                 </div>
             </div>
         </div>
         <div class="col-md-3">
             <div class="row">
-                <div class="col-md-3">
-                <img src="{{ asset('img/new_design_img/icons/288316_WIPS_R_orange.png') }}" width="100%" alt="">
-                </div>
+                <div class="col-md-3"></div>
                 <div class="col-md-9">
-                    <h5>Application Support</h5>
-                    <p>Mesprosoft provides comprehensive application support services to ensure the smooth functioning and uninterrupted operation of software applications utilised by our clients.</p>
                     <a href="{{ route('services.applicationSupport') }}" class="btn btn-outline-secondary readMore_btn">Read More</a>
                 </div>
             </div>
         </div>
-      
     </div>
 
 </div>

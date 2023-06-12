@@ -1,10 +1,11 @@
 @extends('layouts.master')
 @section('css')
 <style>
-  p{
+  p {
     text-align: justify;
   }
-  li{
+
+  li {
     text-align: justify;
   }
 </style>
@@ -30,14 +31,14 @@
     </div>
     <div class="col-md-6">
       <h3 class="display-7 mb-5">O2C Automation (ALL INDUSTRIES)</h3>
-<p>Harness the complete potential of our order-to-cash (O2C) automation software that fully replaces end-to-end sales order processing from manual interactions with future-centric automation. Finally, order receives, order fulfilment, and payments are centralized in a true manner. With an integrated order management system, we bring businesses the capabilities to handle their day-to-day balance sheet without a single error. Interact on an interactive dashboard because O2C processes have been turned more intelligent and fastest.</p>
+      <p>Harness the complete potential of our order-to-cash (O2C) automation software that fully replaces end-to-end sales order processing from manual interactions with future-centric automation. Finally, order receives, order fulfilment, and payments are centralized in a true manner. With an integrated order management system, we bring businesses the capabilities to handle their day-to-day balance sheet without a single error. Interact on an interactive dashboard because O2C processes have been turned more intelligent and fastest.</p>
     </div>
   </div>
   <div class="row paperLess_form_sec">
-  <div class="col-md-12 text-center mb-6">
+    <div class="col-md-12 text-center mb-6">
       <h1><b>Unlocking Insight Features:</b></h1>
     </div>
-    <div class="col-md-8 point_col">
+    <div class="col-md-7 point_col">
       <div class="row">
         <div class="col-md-3 text-right">
           <img src="{{ asset('img/new_design_img/icons/286393_Grenade_R_neg_orange.png') }}" width="40%" alt="">
@@ -64,9 +65,10 @@
       </div>
 
     </div>
-    <div class="col-md-4">
+    <div class="col-md-5">
       <div class="paperLess_form_outer">
-        <form action="/action_page.php">
+      <iframe frameborder="0" style="height:500px;width:100%;border:none;" src='https://forms.zohopublic.in/mesprosoft/form/RequestADemo/formperma/sdZ_uTFMLGDUasTpWtNEac3QFJovqtFU95ZUJtUcY-4'></iframe>
+        <!-- <form action="/action_page.php">
           <h3 class="display-7 mb-5">Request A Demo!</h3>
           <div class="form-group">
             <input type="text" class="form-control" placeholder="Name">
@@ -87,7 +89,7 @@
           </div>
 
           <button type="submit" class="btn btn-primary">Submit</button>
-        </form>
+        </form> -->
       </div>
     </div>
   </div>

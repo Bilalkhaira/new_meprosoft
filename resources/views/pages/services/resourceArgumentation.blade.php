@@ -1,10 +1,11 @@
 @extends('layouts.master')
 @section('css')
 <style>
-  p{
+  p {
     text-align: justify;
   }
-  li{
+
+  li {
     text-align: justify;
   }
 </style>
@@ -30,27 +31,27 @@
     </div>
     <div class="col-md-6">
       <p>Mesprosoft can make a significant and positive difference to your recruiting experience through honesty, good communication and expertise. We provide good value to our customers with our well trained, quality resources and competitive rates. We have a strong team of functional and technical consultants to take up any IT challenges. Apart from Mesprosoft own projects, it provides competent consultants/ professionals and variety of clients on project basis. Mesprosoft has successfully completed resourcing assignments in India, USA and Middle East on various platforms. Our resourcing and placement teams are experts in identifying skilled IT & SAP resources for part-time contract work, project augmentation and permanent employment for our clients. Our Resource Management team is trained and has excellent knowledge in IT and SAP which helps us in achieving better solutions.</p>
-    <p><b>Resourcing Services Offerings</b></p>
-    <ul>
-      <li>Permanent Staffing</li>
-      <li>Contract Staffing</li>
-    </ul>
+      <p><b>Resourcing Services Offerings</b></p>
+      <ul>
+        <li>Permanent Staffing</li>
+        <li>Contract Staffing</li>
+      </ul>
 
-    <p><b>Value Proposition</b></p>
-    <ul>
-      <li>Reduced fixed costs – by retaining contractors only as long as required and reduced in-house administration and payroll costs</li>
-      <li>Reduced recruitment cost – no advertising, contractor screening, contract negotiation, and the administration costs.</li>
-      <li>No training cost – contractors generally require no formal training and once fully briefed on the job are able to get up to speed in short time.</li>
-      <li>Set charge rates – chare rates, usually hourly or day rate calculation, can be fixed and provided total cost to the client with no hidden overheads or payroll contribution.</li>
-      <li>Experienced & flexible contractors – contractors tend to have a broader base of experience are willing to work long hours, are available at short notice, will work in adverse locations and conditions and are adept at getting the job done.</li>
-    </ul>
+      <p><b>Value Proposition</b></p>
+      <ul>
+        <li>Reduced fixed costs – by retaining contractors only as long as required and reduced in-house administration and payroll costs</li>
+        <li>Reduced recruitment cost – no advertising, contractor screening, contract negotiation, and the administration costs.</li>
+        <li>No training cost – contractors generally require no formal training and once fully briefed on the job are able to get up to speed in short time.</li>
+        <li>Set charge rates – chare rates, usually hourly or day rate calculation, can be fixed and provided total cost to the client with no hidden overheads or payroll contribution.</li>
+        <li>Experienced & flexible contractors – contractors tend to have a broader base of experience are willing to work long hours, are available at short notice, will work in adverse locations and conditions and are adept at getting the job done.</li>
+      </ul>
     </div>
   </div>
   <div class="row paperLess_form_sec">
-  <div class="col-md-12 text-center mb-6">
+    <div class="col-md-12 text-center mb-6">
       <h1><b>Unlocking Insight Features:</b></h1>
     </div>
-    <div class="col-md-8 point_col">
+    <div class="col-md-7 point_col">
       <div class="row">
         <div class="col-md-3 text-right">
           <img src="{{ asset('img/new_design_img/icons/288136_SAP_HANA_Cloud_Adaptive_Server_Enterprise_Replication_R_orange.png') }}" width="40%" alt="">
@@ -77,10 +78,11 @@
       </div>
 
     </div>
-    <div class="col-md-4">
+    <div class="col-md-5">
       <div class="paperLess_form_outer">
-        <form action="/action_page.php">
-        <h3 class="display-7 mb-5">Request A Demo!</h3>
+      <iframe frameborder="0" style="height:500px;width:100%;border:none;" src='https://forms.zohopublic.in/mesprosoft/form/RequestADemo/formperma/sdZ_uTFMLGDUasTpWtNEac3QFJovqtFU95ZUJtUcY-4'></iframe>
+        <!-- <form action="/action_page.php">
+          <h3 class="display-7 mb-5">Request A Demo!</h3>
           <div class="form-group">
             <input type="text" class="form-control" placeholder="Name">
           </div>
@@ -100,7 +102,7 @@
           </div>
 
           <button type="submit" class="btn btn-primary">Submit</button>
-        </form>
+        </form> -->
       </div>
     </div>
   </div>

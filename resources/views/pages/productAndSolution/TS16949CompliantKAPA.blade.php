@@ -1,10 +1,11 @@
 @extends('layouts.master')
 @section('css')
 <style>
-  p{
+  p {
     text-align: justify;
   }
-  li{
+
+  li {
     text-align: justify;
   }
 </style>
@@ -29,16 +30,16 @@
       <img src="{{ asset('img/new_design_img/37.jpeg') }}" width="100%" alt="">
     </div>
     <div class="col-md-6">
-    <h3 class="display-7 mb-5">TS 16949 Compliant KAPA</h3>
+      <h3 class="display-7 mb-5">TS 16949 Compliant KAPA</h3>
       <p>The ISO standard Technical Specification (TS) 16949 outlines specific requirements for manufacturers of automotive production and service parts. The standard is addressed predominantly for quality management system (QMS) development. If your company also wants to be TS 16949 compliant, Mesprosoft will leave no stone unturned in making it happen. We are gearing up companies to adapt fastest to the modern business dynamics by making them compliant with the respective ISO standards.</p>
-      
+
     </div>
   </div>
   <div class="row paperLess_form_sec">
-  <div class="col-md-12 text-center mb-6">
+    <div class="col-md-12 text-center mb-6">
       <h1><b>Unlocking Insight Features:</b></h1>
     </div>
-    <div class="col-md-8 point_col">
+    <div class="col-md-7 point_col">
       <div class="row">
         <div class="col-md-3 text-right">
           <img src="{{ asset('img/new_design_img/icons/292349_Brake_Disk_R_orange.png') }}" width="40%" alt="">
@@ -65,9 +66,10 @@
       </div>
 
     </div>
-    <div class="col-md-4">
+    <div class="col-md-5">
       <div class="paperLess_form_outer">
-        <form action="/action_page.php">
+      <iframe frameborder="0" style="height:500px;width:100%;border:none;" src='https://forms.zohopublic.in/mesprosoft/form/RequestADemo/formperma/sdZ_uTFMLGDUasTpWtNEac3QFJovqtFU95ZUJtUcY-4'></iframe>
+        <!-- <form action="/action_page.php">
           <h3 class="display-7 mb-5">Request A Demo!</h3>
           <div class="form-group">
             <input type="text" class="form-control" placeholder="Name">
@@ -88,7 +90,7 @@
           </div>
 
           <button type="submit" class="btn btn-primary">Submit</button>
-        </form>
+        </form> -->
       </div>
     </div>
   </div>

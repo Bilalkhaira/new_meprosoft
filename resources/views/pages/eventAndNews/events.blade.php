@@ -23,7 +23,7 @@
       <div class="row">
         <div class="col-md-12">
           <a href="{{ route('eventAndNews.eventDetail') }}" target="_blank">
-            <h3 class="display-7 mb-5">Mesprosoft Introduced</h3>
+            <h3 class="display-7 mb-5">Transformation Express by SAP: Powering a Digital India.</h3>
             <img class="mb-8" src="{{ asset('img/new_design_img/event8.jpg') }}" width="100%" alt="">
           </a>
           <!-- <p>Mesprosoft Introduced A New Pay Per Ticket Model For Its Customers...</p> -->
